@@ -9,7 +9,9 @@ redirect_from:
   - /about.html
 ---
 
-<span style="font-size:0.9em;">I am an Economist at STATEC Research. I earned a PhD in Economics jointly from Sant'Anna School of Advanced Studies and Paris I Panthéon-Sorbonne in 2019. I also worked as consultant for UN-ECLAC, the OECD and the Bank of Italy.</span>
+<span style="font-size:0.9em;">I am an Economist at STATEC Research and affiliated researcher at Sant'Anna School of Advanced Studies.</span>
+
+<span style="font-size:0.9em;">I earned a PhD in Economics jointly from Sant'Anna School of Advanced Studies and Paris I Panthéon-Sorbonne in 2019. I also worked as consultant for UN-ECLAC, the OECD and the Bank of Italy.</span>
   
 <span style="font-size:0.9em;">My primary fields are firm dynamics and entrepreneurship, with a focus on young innovative firms and the evaluation of public policies targeting them.</span>
   
