@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: false
-fontsize: 11pt
+fontsize: 9pt
 excerpt: "About me"
 author_profile: true
 redirect_from: 
