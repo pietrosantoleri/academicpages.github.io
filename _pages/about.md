@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: false
-fontsize: 10pt
+font-size: 10pt
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -25,12 +25,3 @@ redirect_from:
 <span style="font-size:0.9em;">Supporting innovative entrepreneurship: an evaluation of the Italian Start-up Act [WP][NBER SI slides]</span>
 
 <span style="font-size:0.9em;">Innovation and job creation in (high-growth) new firms [WP][NBER SI slides]</span>
-
-post-title {
-  margin: 0 0 5px;
-  font-weight: bold;
-  font-size: 38px;
-  line-height: 1.2;
-   Economist at STATEC Research. I earned a PhD in Economics jointly from Sant'Anna School of Advanced Studies and Paris I Panthéon-Sorbonne in 2019. I also worked as consultant for UN-ECLAC, the OECD and the Bank of Ital Economist at STATEC Research. I earned a PhD in Economics jointly from Sant'Anna School of Advanced Studies and Paris I Panthéon-Sorbonne in 2019. I also worked as consultant for UN-ECLAC, the OECD and the Bank of Ital Economist at STATEC Research. I earned a PhD in Economics jointly from Sant'Anna School of Advanced Studies and Paris I Panthéon-Sorbonne in 2019. I also worked as consultant for UN-ECLAC, the OECD and the Bank of Ital;
-}
-
