@@ -12,6 +12,8 @@ I am a Postdoctoral Fellow at the Institute of Economics at Sant'Anna School of 
 My primary fields are firm dynamics and entrepreneurship, with a focus on innovative young firms and the evaluation of public policies targeting them.
 I am member of the Editorial Review Board of [Small Business Economics](https://www.springer.com/journal/11187)
 
+Roses are <span style="color:red; font-family:Georgia; font-size:2em;">red.</span>
+
 ------
 
 **Recent research**
