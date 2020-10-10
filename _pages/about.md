@@ -16,6 +16,11 @@ I am member of the Editorial Review Board of [Small Business Economics](https://
 
 **Recent research**
 
+The causal effects of R&D grants: evidence from a regression discontinuity [WP][NBER SI slides]
+Direct public support for business R&D is a well-established remedy to market failures, yet empirical evidence on its effectiveness yields conflicting results. The paper investigates the impact of the first European public R&D grant program targeting small and medium enterprises (i.e. the SME Instrument) on a wide range of firm outcomes. We leverage the assignment mechanisms of the policy and employ a sharp regression discontinuity design to provide the broadest quasi- experimental evidence on R&D grants over both geographical and sectoral scopes. Results show that grants trigger sizable impacts. They increase investment, notably in intangibles, and innovation outcomes as measured by cite-weighted patents; they trigger faster growth in assets, employment and revenues; they lead to higher likelihood of receiving follow-on equity financing and lower failure chances. These effects tend to be larger for firms that are smaller and younger, or operating in sectors characterized by higher financial frictions. Furthermore, responses are stronger in countries and regions with lower economic development. The paper provides extensive evidence that the beneficial effects of R&D grants materialize through funding rather than certification effects.
+Featured in:
+VoxEu.org - LaVoce.info - IlSole24Ore
+
 A data-driven personal website
 ======
 Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
