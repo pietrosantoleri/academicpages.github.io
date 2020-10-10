@@ -12,7 +12,7 @@ I am a Postdoctoral Fellow at the Institute of Economics at Sant'Anna School of 
 My primary fields are firm dynamics and entrepreneurship, with a focus on innovative young firms and the evaluation of public policies targeting them.
 I am member of the Editorial Review Board of [Small Business Economics](https://www.springer.com/journal/11187)
 
-Roses are <span style="color:red; font-family:Georgia; font-size:0.1em;">red.</span>
+Roses are <span style="color:red; font-family:Georgia; font-size:0.7em;">red.</span>
 
 ------
 
@@ -20,7 +20,7 @@ Roses are <span style="color:red; font-family:Georgia; font-size:0.1em;">red.</s
 
 The causal effects of R&D grants: evidence from a regression discontinuity [WP][NBER SI slides]
 
-<span style=font-size:0.8em;">Direct public support for business R&D is a well-established remedy to market failures, yet empirical evidence on its effectiveness yields conflicting results. The paper investigates the impact of the first European public R&D grant program targeting small and medium enterprises (i.e. the SME Instrument) on a wide range of firm outcomes. We leverage the assignment mechanisms of the policy and employ a sharp regression discontinuity design to provide the broadest quasi- experimental evidence on R&D grants over both geographical and sectoral scopes. Results show that grants trigger sizable impacts. They increase investment, notably in intangibles, and innovation outcomes as measured by cite-weighted patents; they trigger faster growth in assets, employment and revenues; they lead to higher likelihood of receiving follow-on equity financing and lower failure chances. These effects tend to be larger for firms that are smaller and younger, or operating in sectors characterized by higher financial frictions. Furthermore, responses are stronger in countries and regions with lower economic development. The paper provides extensive evidence that the beneficial effects of R&D grants materialize through funding rather than certification effects.
+<span style="font-size:0.8em;">Direct public support for business R&D is a well-established remedy to market failures, yet empirical evidence on its effectiveness yields conflicting results. The paper investigates the impact of the first European public R&D grant program targeting small and medium enterprises (i.e. the SME Instrument) on a wide range of firm outcomes. We leverage the assignment mechanisms of the policy and employ a sharp regression discontinuity design to provide the broadest quasi- experimental evidence on R&D grants over both geographical and sectoral scopes. Results show that grants trigger sizable impacts. They increase investment, notably in intangibles, and innovation outcomes as measured by cite-weighted patents; they trigger faster growth in assets, employment and revenues; they lead to higher likelihood of receiving follow-on equity financing and lower failure chances. These effects tend to be larger for firms that are smaller and younger, or operating in sectors characterized by higher financial frictions. Furthermore, responses are stronger in countries and regions with lower economic development. The paper provides extensive evidence that the beneficial effects of R&D grants materialize through funding rather than certification effects.
 Featured in:
 VoxEu.org - LaVoce.info - IlSole24Ore </span>
 
