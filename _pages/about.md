@@ -1,7 +1,6 @@
 ---
 permalink: /
 title: false
-font-size: 16px
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -9,11 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a Postdoctoral Fellow at the Institute of Economics at Sant'Anna School of Advanced Studies (Pisa, Italy). I earned a PhD in Economics jointly from Sant'Anna School of Advanced Studies and Paris I Panthéon-Sorbonne in 2019. I also worked as consultant for UN-ECLAC, the OECD and the Bank of Italy.
+<span style="font-size:0.7em;">I am a Postdoctoral Fellow at the Institute of Economics at Sant'Anna School of Advanced Studies (Pisa, Italy). I earned a PhD in Economics jointly from Sant'Anna School of Advanced Studies and Paris I Panthéon-Sorbonne in 2019. I also worked as consultant for UN-ECLAC, the OECD and the Bank of Italy.
 My primary fields are firm dynamics and entrepreneurship, with a focus on innovative young firms and the evaluation of public policies targeting them.
 I am member of the Editorial Review Board of [Small Business Economics](https://www.springer.com/journal/11187)
-
-Roses are <span style="color:red; font-family:Georgia; font-size:0.7em;">red.</span>
 
 ------
 
@@ -22,7 +19,7 @@ Roses are <span style="color:red; font-family:Georgia; font-size:0.7em;">red.</s
 The causal effects of R&D grants: evidence from a regression discontinuity [WP][NBER SI slides]
 
 Featured in:
-VoxEu.org - LaVoce.info - IlSole24Ore </span>
+VoxEu.org - LaVoce.info - IlSole24Ore</span>
 
 A data-driven personal website
 ======
