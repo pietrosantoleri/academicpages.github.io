@@ -11,7 +11,7 @@ redirect_from:
 
 <span style="font-size:0.9em;">I am an Economist at STATEC Research. I earned a PhD in Economics jointly from Sant'Anna School of Advanced Studies and Paris I Panthéon-Sorbonne in 2019. I also worked as consultant for UN-ECLAC, the OECD and the Bank of Italy.</span>
   
-<span style="font-size:0.9em;">My primary fields are firm dynamics and entrepreneurship, with a focus on innovative young firms and the evaluation of public policies targeting them.</span>
+<span style="font-size:0.9em;">My primary fields are firm dynamics and entrepreneurship, with a focus on young innovative firms and the evaluation of public policies targeting them.</span>
   
 <span style="font-size:0.9em;">I am member of the Editorial Review Board of [Small Business Economics](https://www.springer.com/journal/11187)</span>
 
