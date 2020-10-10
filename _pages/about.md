@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/).
+I am a Postdoctoral Fellow at the Institute of Economics at Sant'Anna School of Advanced Studies (Pisa, Italy). I earned a PhD in Economics jointly from Sant'Anna School of Advanced Studies and Paris I Panthéon-Sorbonne in 2019. I also worked as consultant for UN-ECLAC, the OECD and the Bank of Italy.
+My primary fields are firm dynamics and entrepreneurship, with a focus on innovative young firms and the evaluation of public policies targeting them.
+I am member of the Editorial Review Board of Small Business Economics
 
 A data-driven personal website
 ======
