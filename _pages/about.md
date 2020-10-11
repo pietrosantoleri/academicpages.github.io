@@ -19,9 +19,8 @@ redirect_from:
 
 **Recent research**
 
-<span style="font-size:0.9em;">The causal effects of R&D grants: evidence from a regression discontinuity [WP][NBER SI slides]</span>
-<span style="font-size:0.9em;">Featured in: VoxEu.org - LaVoce.info - IlSole24Ore</span>
+<span style="font-size:0.8em;">A new working paper, [The causal effects of R&D grants: evidence from a regression discontinuity](http://www.lem.sssup.it/WPLem/files/2020-18.pdf), is out. The paper is featured in Voxeu, Lavoce and IlSole24Ore.</span>
 
-<span style="font-size:0.9em;">Supporting innovative entrepreneurship: an evaluation of the Italian Start-up Act [WP][NBER SI slides]</span>
+<span style="font-size:0.8em;">Supporting innovative entrepreneurship: an evaluation of the Italian Start-up Act [WP][NBER SI slides]</span>
 
-<span style="font-size:0.9em;">Innovation and job creation in (high-growth) new firms [WP][NBER SI slides]</span>
+<span style="font-size:0.8em;">Innovation and job creation in (high-growth) new firms [WP][NBER SI slides]</span>
