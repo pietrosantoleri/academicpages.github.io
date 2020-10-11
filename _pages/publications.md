@@ -42,7 +42,7 @@ author_profile: true
 
 **Book chapters**
 
-Rovira, S., Santoleri, P. and Stumpo, G. (2013). “Incorporacion de TIC en el sector productivo: uso y desuso de las politicas publicas para favorecer su difusion.” In Stumpo, G. and Rovira, S. Entre mitos y realidades. TIC, politicas publicas y desarrollo productivo en Am ́erica Latina. ECLAC, Santiago de Chile
+* <span style="font-size:11pt;">**Incorporacion de TIC en el sector productivo: uso y desuso de las politicas publicas para favorecer su difusion** In Stumpo, G. and Rovira, S. [Entre mitos y realidades. TIC, politicas publicas y desarrollo productivo en America Latina](https://repositorio.cepal.org/bitstream/handle/11362/37248/1/LCL3600_es.pdf). ECLAC, Santiago de Chile</span>
 
 
 
