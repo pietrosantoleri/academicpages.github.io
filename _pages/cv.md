@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
+http://academicpages.github.io/files/CV_Santoleri_August20.pdf
 
 Education
 ======
