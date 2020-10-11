@@ -6,6 +6,9 @@ author_profile: true
 ---
 **Peer-Reviewed articles**
 
+* <span style="font-size:11pt;">**Public Funding of Innovation: Exploring Applications and Allocations of the European SME Instrument**</span>
+   - <span style="font-size:11pt;">*Research Policy*, forthcoming
+
 * <span style="font-size:11pt;">**Innovation and Job Creation in (High-growth) New Firms**</span>
    - <span style="font-size:11pt;">*Industrial and Corporate Change* (2020) 29: 731–756</span>
    - <span style="font-size:11pt;">[[Paper](https://academic.oup.com/icc/article-abstract/29/3/731/5643963?redirectedFrom=fulltext)] [[WP](http://www.lem.sssup.it/WPLem/files/2019-31.pdf)]</span>
