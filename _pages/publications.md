@@ -18,6 +18,8 @@ author_profile: true
    - <span style="font-size:11pt;">*Economics of Innovation and New Technology* (2015) 550:568
    - <span style="font-size:11pt;">[[Paper](https://www.tandfonline.com/doi/abs/10.1080/10438599.2014.946313)]</span>
    
+------
+
 **Working papers**
 
 * <span style="font-size:11pt;">**Supporting innovative entrepreneurship: an evaluation of the Italian Start-up Act**, with Francesco Manaresi and Carlo Menon</span>
