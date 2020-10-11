@@ -27,13 +27,3 @@ redirect_from:
 <span style="font-size:0.9em;">Supporting innovative entrepreneurship: an evaluation of the Italian Start-up Act [WP][NBER SI slides]</span>
 
 <span style="font-size:0.9em;">Innovation and job creation in (high-growth) new firms [WP][NBER SI slides]</span>
-
-<pre>
-.post-title {
-  margin: 0 0 5px;
-  font-weight: bold;
-  font-size: 38px;
-  line-height: 1.2;
-  Innovation and job creation in (high-growth) new firmsInnovation and job creation in (high-growth) new firmsInnovation and job creation in (high-growth) new firmsInnovation and job creation in (high-growth) new firmsInnovation and job creation in (high-growth) new firmsInnovation and job creation in (high-growth) new firmsInnovation and job creation in (high-growth) new firmsInnovation and job creation in (high-growth) new firmsInnovation and job creation in (high-growth) new firmsInnovation and job creation in (high-growth) new firmsInnovation and job creation in (high-growth) new firms;
-}
-</pre>
