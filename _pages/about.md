@@ -23,4 +23,4 @@ redirect_from:
 
 * <span style="font-size:11pt;">Francesco Manaresi, Carlo Menon and I just released a new paper ["Supporting Innovative Entrepreneurship: An Evaluation of the Italian Start-up Act"](http://docs.dises.univpm.it/web/quaderni/pdfmofir/Mofir163.pdf).</span>
 
-* <span style="font-size:11pt;">My article ["Innovation and Job Creation in (High-growth) new Firms"](https://academic.oup.com/icc/article-abstract/29/3/731/5643963?redirectedFrom=fulltext) has been published in *Industrial and Corporate Change*.</span>
+* <span style="font-size:11pt;">My article ["Innovation and Job Creation in (High-growth) New Firms"](https://academic.oup.com/icc/article-abstract/29/3/731/5643963?redirectedFrom=fulltext) has been published in *Industrial and Corporate Change*.</span>
