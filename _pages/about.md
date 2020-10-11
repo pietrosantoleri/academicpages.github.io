@@ -9,7 +9,7 @@ redirect_from:
   - /about.html
 ---
 
-<span style="font-size:0.9em;">I am an Economist at STATEC Research and affiliated researcher at Sant'Anna School of Advanced Studies. I earned a PhD in Economics jointly from Sant'Anna School of Advanced Studies and Paris I Panthéon-Sorbonne in 2019. I also worked as consultant for UN-ECLAC, the OECD and the Bank of Italy.</span>
+<span style="font-size:0.9em;">I am an Economist at [STATEC Research](https://statistiques.public.lu/en/actors/statec/organisation/red/index.html) and affiliated researcher at Sant'Anna School of Advanced Studies. I earned a PhD in Economics jointly from Sant'Anna School of Advanced Studies and Paris I Panthéon-Sorbonne in 2019. I also worked as consultant for UN-ECLAC, the OECD and the Bank of Italy.</span>
   
 <span style="font-size:0.9em;">My primary fields are firm dynamics and entrepreneurship, with a focus on young innovative firms and the evaluation of public policies targeting them.</span>
   
@@ -19,8 +19,8 @@ redirect_from:
 
 **Recent research**
 
-<span style="font-size:16pt;">A new working paper, [The causal effects of R&D grants: evidence from a regression discontinuity](http://www.lem.sssup.it/WPLem/files/2020-18.pdf), is out. The paper is featured in Voxeu, Lavoce and IlSole24Ore.</span>
+<span style="font-size:12pt;">A new working paper, [The causal effects of R&D grants: evidence from a regression discontinuity](http://www.lem.sssup.it/WPLem/files/2020-18.pdf), is out. The paper is featured in [Voxeu](https://voxeu.org/article/causal-effects-rd-grants), [Lavoce](https://www.lavoce.info/archives/68838/buoni-investimenti-il-sostegno-a-ricerca-e-sviluppo-delle-pmi/) and IlSole24Ore.</span>
 
-<span style="font-size:0.8em;">Supporting innovative entrepreneurship: an evaluation of the Italian Start-up Act [WP][NBER SI slides]</span>
+<span style="font-size:12pt;">Supporting innovative entrepreneurship: an evaluation of the Italian Start-up Act [WP][NBER SI slides]</span>
 
-<span style="font-size:0.8em;">Innovation and job creation in (high-growth) new firms [WP][NBER SI slides]</span>
+<span style="font-size:12pt;">Innovation and job creation in (high-growth) new firms [WP][NBER SI slides]</span>
