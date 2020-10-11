@@ -20,12 +20,15 @@ author_profile: true
    
 **Working papers**
 
-* <span style="font-size:11pt;">**Supporting innovative entrepreneurship: an evaluation of the Italian "Start-up Act"**, with Francesco Manaresi and Carlo Menon</span>
+* <span style="font-size:11pt;">**Supporting innovative entrepreneurship: an evaluation of the Italian Start-up Act**, with Francesco Manaresi and Carlo Menon</span>
    - <span style="font-size:11pt;">*Mo.Fi.R. Working Papers 163* (2020)</span>
-   - <span style="font-size:11pt;">[[Paper](https://academic.oup.com/icc/article-abstract/29/3/731/5643963?redirectedFrom=fulltext)] [[WP](http://www.lem.sssup.it/WPLem/files/2019-31.pdf)]</span>
-   
-Manaresi, F., Menon, C. Santoleri, (2020). “Supporting innovative entrepreneurship: an evaluation of the Italian "Start-up Act"”, Mo.Fi.R. Working Papers 163, Money and Finance Research group (Mo.Fi.R.) - Univ. Politecnica Marche - Dept. Economic and Social Sciences.
-DeStefano, T., Manaresi, F., Menon, C. Santoleri, P. and Soggia, G. (2018). “The evaluation of the Italian Start-up Act”, OECD Science, Technology and Industry Policy Papers. Featured in: LaVoce.info - IlSole24Ore. The work was presented at the Italian Parliament. Watch the presentation here (in Italian).
+   - <span style="font-size:11pt;">[[WP](http://docs.dises.univpm.it/web/quaderni/pdfmofir/Mofir163.pdf)]</span>
+
+* <span style="font-size:11pt;">**The evaluation of the Italian Start-up Act**, with Timothy DeStefano, Francesco Manaresi, Carlo Menon and Giovanni Soggia</span>
+   - <span style="font-size:11pt;">*OECD Science, Technology and Industry Policy Papers* (2018)</span>
+   - <span style="font-size:11pt;">[[WP](https://www.oecd-ilibrary.org/industry-and-services/the-evaluation-of-the-italian-start-up-act_02ab0eb7-en)]. Featured in: [LaVoce](https://www.lavoce.info/archives/56050/startup-act-un-primo-passo-di-successo-3/) - [IlSole24Ore](https://www.econopoly.ilsole24ore.com/2018/11/06/startup-act-italia-innovazione-business/).</span>
+
+Featured in: LaVoce.info - IlSole24Ore. The work was presented at the Italian Parliament. Watch the presentation here (in Italian).
 Dosi, G., Pugliese, E. and Santoleri, P. (2017). “Growth and survival of the fitter? Evidence from US new born firms” LEM Working Paper Series, 2017-6
 Santoleri, P. and Stumpo, G. (2012). “Microempresas y pymes en America Latina: caracteristicas de las firmas y politicas de apoyo.” Documento de trabajo, Division de Desarrollo Productivo y Empresarial, ECLAC
 Book chapters
