@@ -6,7 +6,7 @@ author_profile: true
 ---
 **Peer-Reviewed articles**
 
-* <span style="font-size:11pt;">**Public Funding of Innovation: Exploring Applications and Allocations of the European SME Instrument**</span>
+* <span style="font-size:11pt;">**Public Funding of Innovation: Exploring Applications and Allocations of the European SME Instrument**, with Andrea Mina, Irene Martelli, Alberto Di Minin and Giuseppina Testa</span>
    - <span style="font-size:11pt;">*Research Policy*, forthcoming
 
 * <span style="font-size:11pt;">**Innovation and Job Creation in (High-growth) New Firms**</span>
