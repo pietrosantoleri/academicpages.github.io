@@ -6,8 +6,9 @@ author_profile: true
 ---
 **Peer-Reviewed articles**
 
-* <span style="font-size:11pt;">**Innovation and Job Creation in (High-growth) New Firms**, *Industrial and Corporate Change* (2020) 29: 731–756
-[[Paper](https://academic.oup.com/icc/article-abstract/29/3/731/5643963?redirectedFrom=fulltext)] [[WP](http://www.lem.sssup.it/WPLem/files/2019-31.pdf)]</span>
+* <span style="font-size:11pt;">**Innovation and Job Creation in (High-growth) New Firms**</span>
+   - <span style="font-size:11pt;">*Industrial and Corporate Change* (2020) 29: 731–756</span>
+   - <span style="font-size:11pt;">[[Paper](https://academic.oup.com/icc/article-abstract/29/3/731/5643963?redirectedFrom=fulltext)] [[WP](http://www.lem.sssup.it/WPLem/files/2019-31.pdf)]</span>
 
 * <span style="font-size:11pt;">**Exploring the Link Between Innovation and Firm Growth**, with Caterina Santi</span>
    - <span style="font-size:11pt;">*Small Business Economics* (2017) 49: 445</span>
@@ -17,7 +18,7 @@ author_profile: true
    - <span style="font-size:11pt;">*Economics of Innovation and New Technology* (2015) 550:568
    - [[Paper](https://www.tandfonline.com/doi/abs/10.1080/10438599.2014.946313)]</span>
    
-3. Item
+
 
 
 
