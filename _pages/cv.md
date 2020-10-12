@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-<span style="font-size:0.9em;">Download full CV [here](http://pietrosantoleri.github.io/files/CV_12_10_2020.pdf)</span>
+<span style="font-size:0.9em;">Download full CV [here](http://pietrosantoleri.github.io/files/CV_12_10_2020-2.pdf)</span>
