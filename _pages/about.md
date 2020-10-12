@@ -8,6 +8,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
+<style>
+a {
+text-decoration: none;
+}
+</style>
 
 <span style="font-size:12pt;">I am an Economist at [STATEC Research](https://statistiques.public.lu/en/actors/statec/organisation/red/index.html) and affiliated researcher at [Sant'Anna School of Advanced Studies](https://www.santannapisa.it/en). I earned a PhD in Economics jointly from Sant'Anna School of Advanced Studies and Paris I Panthéon-Sorbonne in 2019. I also worked as consultant for UN-ECLAC, the OECD and the Bank of Italy.</span>
   
