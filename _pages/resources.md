@@ -14,4 +14,8 @@ Berk, et al (2017). How to Write an Effective Referee Report and Improve the Sci
 
 McKenzie (2012). How much to referee and how to do it? [[link](https://blogs.worldbank.org/impactevaluations/how-much-to-referee-and-how-to-do-it)]
 
+*Replication*
+
+American Economic Association guidance. [link](https://github.com/AEADataEditor/aea-de-guidance)
+
 
