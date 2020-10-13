@@ -16,12 +16,14 @@ Berk, et al (2016). A Checklist for Reviewing a Paper. [[link](https://papers.ss
 
 McKenzie (2012). How much to referee and how to do it? [[link](https://blogs.worldbank.org/impactevaluations/how-much-to-referee-and-how-to-do-it)]
 
-*Replication*
+*Replication & Workflow*
 
 American Economic Association guidance. [[link](https://github.com/AEADataEditor/aea-de-guidance)]
 
 Michael Stepner coding guide. [[link](https://github.com/michaelstepner/healthinequality-code/tree/master/code)]
 
 Julian Reif coding guide. [[link](https://reifjulian.github.io/guide/)]
+
+The Hidden Curriculum Workflow: STATA, Github, Overleaf and R [[link](https://www.youtube.com/watch?v=BRakB2fxWYc&feature=youtu.be)]
 
 
