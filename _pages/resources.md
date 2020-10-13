@@ -37,3 +37,10 @@ Shariro, How to Give an Applied Micro Talk [[link](https://www.brown.edu/Researc
 
 Kondolis & McKenzie (2020). Your One-Stop Shop for Methodology [[link](https://blogs.worldbank.org/impactevaluations/curated-list-our-postings-technical-topics-your-one-stop-shop-methodology-0)]
 
+Zeldow & Hatfield (2019). Difference-in-differences. [[link](https://diff.healthpolicydatascience.org/#parallel)]
+
+Baker (2019). Difference-in-Differences Methodology. [[link](https://andrewcbaker.netlify.app/2019/09/25/difference-in-differences-methodology/)]
+
+
+
+
