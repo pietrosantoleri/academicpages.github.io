@@ -10,8 +10,8 @@ main:
   - title: "CV"
     url: /cv/
     
-  - title: "Resources"
-    url: /resources/
+  #- title: "Resources"
+  #  url: /resources/
     
-  - title: "Twitter"
-    url: /twitter/
+  #- title: "Twitter"
+  #  url: /twitter/
