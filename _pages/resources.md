@@ -7,6 +7,9 @@ author_profile: true
 
 **Resources**
 
+*Writing*
+
+Bellemare (2020). How to Write Applied Papers in Economics [[link](http://marcfbellemare.com/wordpress/wp-content/uploads/2020/09/BellemareHowToPaperSeptember2020.pdf)]
 
 *Peer-review*
 
@@ -26,4 +29,11 @@ Julian Reif coding guide. [[link](https://reifjulian.github.io/guide/)]
 
 The Hidden Curriculum Workflow: STATA, Github, Overleaf and R [[link](https://www.youtube.com/watch?v=BRakB2fxWYc&feature=youtu.be)]
 
+*Presenting*
+
+Shariro, How to Give an Applied Micro Talk [[link](https://www.brown.edu/Research/Shapiro/pdfs/applied_micro_slides.pdf)]
+
+*Methods*
+
+Kondolis & McKenzie (2020). Your One-Stop Shop for Methodology [[link](https://blogs.worldbank.org/impactevaluations/curated-list-our-postings-technical-topics-your-one-stop-shop-methodology-0)]
 
