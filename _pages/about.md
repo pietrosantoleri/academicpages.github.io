@@ -18,7 +18,7 @@ redirect_from:
 
 **Recent research**
 
-* <span style="font-size:11pt;">A new working paper, ["The Causal Effects of R&D Grants: Evidence from a Regression Discontinuity"](http://www.lem.sssup.it/WPLem/files/2020-18.pdf), is out. The paper was presented at the [NBER Summer Institute](https://conference.nber.org/sched/SI20PRINN) and featured in [Voxeu](https://voxeu.org/article/causal-effects-rd-grants), [Lavoce](https://www.lavoce.info/archives/68838/buoni-investimenti-il-sostegno-a-ricerca-e-sviluppo-delle-pmi/) and [IlSole24Ore](https://albertodiminin.nova100.ilsole24ore.com/2020/06/13/seal-of-excellence-come-spendere-bene-330-milioni-di-euro/?refresh_ce=1).</span>
+* <span style="font-size:11pt;">My job market paper, ["The Causal Effects of R&D Grants: Evidence from a Regression Discontinuity"](http://www.lem.sssup.it/WPLem/files/2020-18.pdf), is out. The paper was presented at the [NBER Summer Institute](https://conference.nber.org/sched/SI20PRINN) and featured in [Voxeu](https://voxeu.org/article/causal-effects-rd-grants), [Lavoce](https://www.lavoce.info/archives/68838/buoni-investimenti-il-sostegno-a-ricerca-e-sviluppo-delle-pmi/) and [IlSole24Ore](https://albertodiminin.nova100.ilsole24ore.com/2020/06/13/seal-of-excellence-come-spendere-bene-330-milioni-di-euro/?refresh_ce=1).</span>
 
 * <span style="font-size:11pt;">The article ["Public Funding of Innovation: Exploring Applications and Allocations of the European SME Instrument"](https://www.sciencedirect.com/science/article/pii/S0048733320302067) has been published in *Research Policy*.</span>
 
