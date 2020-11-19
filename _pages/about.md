@@ -22,4 +22,4 @@ redirect_from:
 
 * <span style="font-size:11pt;">The article ["Public Funding of Innovation: Exploring Applications and Allocations of the European SME Instrument"](https://www.sciencedirect.com/science/article/pii/S0048733320302067) has been published in *Research Policy*.</span>
 
-* <span style="font-size:11pt;">Francesco Manaresi, Carlo Menon and I just released a new paper ["Supporting Innovative Entrepreneurship: An Evaluation of the Italian Start-up Act"](http://docs.dises.univpm.it/web/quaderni/pdfmofir/Mofir163.pdf).</span>
+* <span style="font-size:11pt;">Francesco Manaresi, Carlo Menon and I just released a new working paper ["Supporting Innovative Entrepreneurship: An Evaluation of the Italian Start-up Act"](http://docs.dises.univpm.it/web/quaderni/pdfmofir/Mofir163.pdf).</span>
