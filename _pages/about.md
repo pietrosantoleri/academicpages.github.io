@@ -10,7 +10,7 @@ redirect_from:
 ---
 <span style="font-size:12pt;">I am an Economist at [STATEC Research](https://statistiques.public.lu/en/actors/statec/organisation/red/index.html) and affiliated researcher at [Sant'Anna School of Advanced Studies](https://www.santannapisa.it/en). I earned a PhD in Economics jointly from Sant'Anna School of Advanced Studies and Paris I Panthéon-Sorbonne in 2019. I also worked as consultant for UN-ECLAC, the OECD and the Bank of Italy.</span>
   
-<span style="font-size:12pt;">My primary fields are firm dynamics and entrepreneurship, with a focus on young innovative firms and the evaluation of public policies targeting them.</span>
+<span style="font-size:12pt;">My primary fields are firm dynamics and economics of innovation, with a focus on young innovative firms and the evaluation of public policies targeting them.</span>
   
 <span style="font-size:12pt;">I am member of the Editorial Review Board of [Small Business Economics](https://www.springer.com/journal/11187)</span>
 
