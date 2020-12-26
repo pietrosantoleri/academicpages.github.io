@@ -18,7 +18,7 @@ author_profile: true
    - <span style="font-size:11pt;">*Industrial and Corporate Change* (2020) 29: 731–756</span>
    - <span style="font-size:11pt;">[[Paper](https://academic.oup.com/icc/article-abstract/29/3/731/5643963?redirectedFrom=fulltext)] [[WP](http://www.lem.sssup.it/WPLem/files/2019-31.pdf)]</span>
 
-* <span style="font-size:11pt;">**Exploring the Link Between Innovation and Firm Growth**, with Caterina Santi</span>
+* <span style="font-size:11pt;">**Exploring the Link Between Innovation and Firm Growth in Chilean Firms**, with Caterina Santi</span>
    - <span style="font-size:11pt;">*Small Business Economics* (2017) 49: 445</span>
    - <span style="font-size:11pt;">[[Paper](https://link.springer.com/article/10.1007/s11187-016-9836-4)] [[WP](http://www.lem.sssup.it/WPLem/files/2016-09.pdf)]</span>
 
