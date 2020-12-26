@@ -10,7 +10,7 @@ author_profile: true
    - <span style="font-size:11pt;">*Research Policy*, forthcoming
    - <span style="font-size:11pt;">[[Paper](https://www.sciencedirect.com/science/article/pii/S0048733320302067)]
 
-* <span style="font-size:11pt;">**The effect of the Great Recession on the employment growth of young vs. small firms in the Eurozone**, with Andrea Mina</span>
+* <span style="font-size:11pt;">**The Effect of the Great Recession on the Employment Growth of Young vs. Small Firms in the Eurozone**, with Andrea Mina</span>
    - <span style="font-size:11pt;">*Structural Change and Economic Dynamics*, forthcoming
    - <span style="font-size:11pt;">[[Paper](https://www.sciencedirect.com/science/article/pii/S0954349X2030415X)] [[WP](http://www.growinpro.eu/wp-content/uploads/2020/11/working_paper_2020_32.pdf)]
 
@@ -22,7 +22,7 @@ author_profile: true
    - <span style="font-size:11pt;">*Small Business Economics* (2017) 49: 445</span>
    - <span style="font-size:11pt;">[[Paper](https://link.springer.com/article/10.1007/s11187-016-9836-4)] [[WP](http://www.lem.sssup.it/WPLem/files/2016-09.pdf)]</span>
 
-* <span style="font-size:11pt;">**Diversity and intensity of ICTs use and product innovation: evidence from Chilean micro-data**</span>
+* <span style="font-size:11pt;">**Diversity and Intensity of ICTs Use and Product Innovation: Evidence from Chilean Micro-data**</span>
    - <span style="font-size:11pt;">*Economics of Innovation and New Technology* (2015) 550:568
    - <span style="font-size:11pt;">[[Paper](https://www.tandfonline.com/doi/abs/10.1080/10438599.2014.946313)]</span>
    
