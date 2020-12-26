@@ -8,7 +8,11 @@ author_profile: true
 
 * <span style="font-size:11pt;">**Public Funding of Innovation: Exploring Applications and Allocations of the European SME Instrument**, with Andrea Mina, Irene Martelli, Alberto Di Minin and Giuseppina Testa</span>
    - <span style="font-size:11pt;">*Research Policy*, forthcoming
-   - <span style="font-size:11pt;">[[Paper](https://www.sciencedirect.com/science/article/pii/S0048733320302067)] 
+   - <span style="font-size:11pt;">[[Paper](https://www.sciencedirect.com/science/article/pii/S0954349X2030415X)]
+
+* <span style="font-size:11pt;">**The effect of the Great Recession on the employment growth of young vs. small firms in the Eurozone**, with Andrea Mina</span>
+   - <span style="font-size:11pt;">*Structural Change and Economic Dynamics*, forthcoming
+   - <span style="font-size:11pt;">[[Paper](https://www.sciencedirect.com/science/article/pii/S0048733320302067)] [[WP](http://www.growinpro.eu/wp-content/uploads/2020/11/working_paper_2020_32.pdf)]
 
 * <span style="font-size:11pt;">**Innovation and Job Creation in (High-growth) New Firms**</span>
    - <span style="font-size:11pt;">*Industrial and Corporate Change* (2020) 29: 731–756</span>
