@@ -6,6 +6,10 @@ author_profile: true
 ---
 **Peer-Reviewed articles**
 
+* <span style="font-size:11pt;">**Supporting Innovative Entrepreneurship: An Evaluation of the Italian Start-up Act**, with Francesco Manaresi and Carlo Menon</span>
+     - <span style="font-size:11pt;">*Industrial and Corporate Change*, forthcoming
+     - <span style="font-size:11pt;">[[WP](http://docs.dises.univpm.it/web/quaderni/pdfmofir/Mofir163.pdf)]</span>
+     - 
 * <span style="font-size:11pt;">**Public Funding of Innovation: Exploring Applications and Allocations of the European SME Instrument**, with Andrea Mina, Irene Martelli, Alberto Di Minin and Giuseppina Testa</span>
    - <span style="font-size:11pt;">*Research Policy*, forthcoming
    - <span style="font-size:11pt;">[[Paper](https://www.sciencedirect.com/science/article/pii/S0048733320302067)]
@@ -33,10 +37,6 @@ author_profile: true
 * <span style="font-size:11pt;">**The Causal Effects of R&D Grants: Evidence from a Regression Discontinuity**, with Andrea Mina, Irene Martelli, and Alberto Di Minin</span>
     - <span style="font-size:11pt;">*LEM Working Paper Series* (2020)</span>
     - <span style="font-size:11pt;">[[WP](http://www.lem.sssup.it/WPLem/files/2020-18.pdf)] [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3637867)]. Featured in: [VoxEu](https://voxeu.org/article/causal-effects-rd-grants) - [LaVoce](https://www.lavoce.info/archives/68838/buoni-investimenti-il-sostegno-a-ricerca-e-sviluppo-delle-pmi/) - [IlSole24Ore](https://albertodiminin.nova100.ilsole24ore.com/2020/06/13/seal-of-excellence-come-spendere-bene-330-milioni-di-euro/). The work was presented at the [NBER Summer Institute](https://conference.nber.org/sched/SI20PRINN) (slides [here](https://pietrosantoleri.github.io/files/NBER_The_causal_effects_of_R_D_grants.pdf)). </span>
-    
-* <span style="font-size:11pt;">**Supporting Innovative Entrepreneurship: An Evaluation of the Italian Start-up Act**, with Francesco Manaresi and Carlo Menon</span>
-     - <span style="font-size:11pt;">*Mo.Fi.R. Working Papers* (2020)</span>
-     - <span style="font-size:11pt;">[[WP](http://docs.dises.univpm.it/web/quaderni/pdfmofir/Mofir163.pdf)]</span>
 
 * <span style="font-size:11pt;">**The Evaluation of the Italian Start-up Act**, with Timothy DeStefano, Francesco Manaresi, Carlo Menon and Giovanni Soggia</span>
     - <span style="font-size:11pt;">*OECD Science, Technology and Industry Policy Papers* (2018)</span>
