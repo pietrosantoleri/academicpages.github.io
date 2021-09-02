@@ -12,7 +12,7 @@ author_profile: true
 
 * <span style="font-size:11pt;">**Public Funding of Innovation: Exploring Applications and Allocations of the European SME Instrument**, with Andrea Mina, Irene Martelli, Alberto Di Minin and Giuseppina Testa</span>
    - <span style="font-size:11pt;">*Research Policy* (2021) 50(1): 104131</span>
-   - <span style="font-size:11pt;">[[Paper](https://www.sciencedirect.com/science/article/pii/S0048733320302067)]
+   - <span style="font-size:11pt;">[[Paper](https://www.sciencedirect.com/science/article/pii/S0048733320302067)] [[WP](https://pietrosantoleri.github.io/files/Public funding of innovation_SSRN.pdf)]
 
 * <span style="font-size:11pt;">**The Effect of the Great Recession on the Employment Growth of Young vs. Small Firms in the Eurozone**, with Andrea Mina</span>
    - <span style="font-size:11pt;">*Structural Change and Economic Dynamics* (2021) 56: 184-194.
