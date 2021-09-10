@@ -8,7 +8,7 @@ author_profile: true
 
 * <span style="font-size:11pt;">**Supporting Innovative Entrepreneurship: An Evaluation of the Italian Start-up Act**, with Francesco Manaresi and Carlo Menon</span>
      - <span style="font-size:11pt;">*Industrial and Corporate Change*, forthcoming
-     - <span style="font-size:11pt;">[[WP](http://docs.dises.univpm.it/web/quaderni/pdfmofir/Mofir163.pdf)]</span>
+     - <span style="font-size:11pt;">[[Paper](https://academic.oup.com/icc/advance-article-abstract/doi/10.1093/icc/dtab033/6366122?redirectedFrom=fulltext)] [[WP](http://docs.dises.univpm.it/web/quaderni/pdfmofir/Mofir163.pdf)]</span>
 
 * <span style="font-size:11pt;">**Public Funding of Innovation: Exploring Applications and Allocations of the European SME Instrument**, with Andrea Mina, Irene Martelli, Alberto Di Minin and Giuseppina Testa</span>
    - <span style="font-size:11pt;">*Research Policy* (2021) 50(1): 104131</span>
