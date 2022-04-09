@@ -8,7 +8,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<span style="font-size:12pt;">I am an Economist at the [European Commission´s Joint Research Centre](https://iri.jrc.ec.europa.eu/home/) and affiliated researcher at [Sant'Anna School of Advanced Studies](https://www.santannapisa.it/en). I earned a PhD in Economics jointly from Sant'Anna School of Advanced Studies and [Paris I Panthéon-Sorbonne](https://centredeconomiesorbonne.cnrs.fr/en/home/) in 2019. I also worked as consultant for UN-ECLAC, the OECD and the Bank of Italy.</span>
+<span style="font-size:12pt;">I am an Economist at the [European Commission's Joint Research Centre](https://iri.jrc.ec.europa.eu/home/) and affiliated researcher at [Sant'Anna School of Advanced Studies](https://www.santannapisa.it/en). I earned a PhD in Economics jointly from Sant'Anna School of Advanced Studies and [Paris I Panthéon-Sorbonne](https://centredeconomiesorbonne.cnrs.fr/en/home/) in 2019. I also worked as consultant for UN-ECLAC, the OECD and the Bank of Italy.</span>
   
 <span style="font-size:12pt;">My primary fields are firm dynamics and economics of innovation, with a focus on young innovative firms and the evaluation of public policies targeting them.</span>
   
