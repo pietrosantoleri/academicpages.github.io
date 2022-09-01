@@ -7,33 +7,33 @@ author_profile: true
 **Peer-Reviewed articles**
 
 * <span style="font-size:11pt;">**The Causal Effects of R&D Grants: Evidence from a Regression Discontinuity**, with Andrea Mina, Irene Martelli, and Alberto Di Minin</span>
-    - <span style="font-size:11pt;">*The Review of Economics and Statistics*, forthcoming
+    - <span style="font-size:11pt;">*The Review of Economics and Statistics* (2022), forthcoming
     - <span style="font-size:11pt;">[[Paper](https://direct.mit.edu/rest/article/doi/10.1162/rest_a_01233/112422/The-Causal-Effects-of-R-amp-D-Grants-Evidence-from)] [[WP](http://www.lem.sssup.it/WPLem/files/2020-18.pdf)]</span>
 
    <span style="font-size:11pt;">Featured in: [New Things Under the Sun](https://mattsclancy.substack.com/p/an-example-of-high-returns-to-publicly#comments) - [VoxEu](https://voxeu.org/article/causal-effects-rd-grants) - [LaVoce](https://www.lavoce.info/archives/68838/buoni-investimenti-il-sostegno-a-ricerca-e-sviluppo-delle-pmi/) - [IlSole24Ore](https://albertodiminin.nova100.ilsole24ore.com/2020/06/13/seal-of-excellence-come-spendere-bene-330-milioni-di-euro/). The work was presented at the [NBER Summer Institute](https://conference.nber.org/sched/SI20PRINN) (slides [here](https://pietrosantoleri.github.io/files/NBER_The_causal_effects_of_R_D_grants.pdf)). </span>
 
 * <span style="font-size:11pt;">**Supporting Innovative Entrepreneurship: An Evaluation of the Italian Start-up Act**, with Francesco Manaresi and Carlo Menon</span>
-     - <span style="font-size:11pt;">*Industrial and Corporate Change*, forthcoming
+     - <span style="font-size:11pt;">*Industrial and Corporate Change* (2021), 30(6): 1591-1614
      - <span style="font-size:11pt;">[[Paper](https://academic.oup.com/icc/advance-article-abstract/doi/10.1093/icc/dtab033/6366122?redirectedFrom=fulltext)] [[WP](http://docs.dises.univpm.it/web/quaderni/pdfmofir/Mofir163.pdf)]</span>
 
 * <span style="font-size:11pt;">**Public Funding of Innovation: Exploring Applications and Allocations of the European SME Instrument**, with Andrea Mina, Irene Martelli, Alberto Di Minin and Giuseppina Testa</span>
-   - <span style="font-size:11pt;">*Research Policy* (2021) 50(1): 104131</span>
+   - <span style="font-size:11pt;">*Research Policy* (2021), 50(1): 104131</span>
    - <span style="font-size:11pt;">[[Paper](https://www.sciencedirect.com/science/article/pii/S0048733320302067)] [[WP](https://pietrosantoleri.github.io/files/Public funding of innovation_SSRN.pdf)]
 
 * <span style="font-size:11pt;">**The Effect of the Great Recession on the Employment Growth of Young vs. Small Firms in the Eurozone**, with Andrea Mina</span>
-   - <span style="font-size:11pt;">*Structural Change and Economic Dynamics* (2021) 56: 184-194.
+   - <span style="font-size:11pt;">*Structural Change and Economic Dynamics* (2021), 56: 184-194.
    - <span style="font-size:11pt;">[[Paper](https://www.sciencedirect.com/science/article/pii/S0954349X2030415X)] [[WP](http://www.growinpro.eu/wp-content/uploads/2020/11/working_paper_2020_32.pdf)]
 
 * <span style="font-size:11pt;">**Innovation and Job Creation in (High-growth) New Firms**</span>
-   - <span style="font-size:11pt;">*Industrial and Corporate Change* (2020) 29: 731–756</span>
+   - <span style="font-size:11pt;">*Industrial and Corporate Change* (2020), 29: 731–756</span>
    - <span style="font-size:11pt;">[[Paper](https://academic.oup.com/icc/article-abstract/29/3/731/5643963?redirectedFrom=fulltext)] [[WP](http://www.lem.sssup.it/WPLem/files/2019-31.pdf)]</span>
 
 * <span style="font-size:11pt;">**Exploring the Link Between Innovation and Firm Growth in Chilean Firms**, with Caterina Santi</span>
-   - <span style="font-size:11pt;">*Small Business Economics* (2017) 49: 445</span>
+   - <span style="font-size:11pt;">*Small Business Economics* (2017), 49: 445</span>
    - <span style="font-size:11pt;">[[Paper](https://link.springer.com/article/10.1007/s11187-016-9836-4)] [[WP](http://www.lem.sssup.it/WPLem/files/2016-09.pdf)]</span>
 
 * <span style="font-size:11pt;">**Diversity and Intensity of ICTs Use and Product Innovation: Evidence from Chilean Micro-data**</span>
-   - <span style="font-size:11pt;">*Economics of Innovation and New Technology* (2015) 550:568
+   - <span style="font-size:11pt;">*Economics of Innovation and New Technology* (2015), 550:568
    - <span style="font-size:11pt;">[[Paper](https://www.tandfonline.com/doi/abs/10.1080/10438599.2014.946313)]</span>
    
 ------
