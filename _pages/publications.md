@@ -10,7 +10,7 @@ author_profile: true
     - <span style="font-size:11pt;">*The Review of Economics and Statistics*, forthcoming
     - <span style="font-size:11pt;">[[Paper](https://direct.mit.edu/rest/article/doi/10.1162/rest_a_01233/112422/The-Causal-Effects-of-R-amp-D-Grants-Evidence-from)] [[WP](http://www.lem.sssup.it/WPLem/files/2020-18.pdf)]</span>
 
-   Featured in: [VoxEu](https://voxeu.org/article/causal-effects-rd-grants) - [LaVoce](https://www.lavoce.info/archives/68838/buoni-investimenti-il-sostegno-a-ricerca-e-sviluppo-delle-pmi/) - [IlSole24Ore](https://albertodiminin.nova100.ilsole24ore.com/2020/06/13/seal-of-excellence-come-spendere-bene-330-milioni-di-euro/). The work was presented at the [NBER Summer Institute](https://conference.nber.org/sched/SI20PRINN) (slides [here](https://pietrosantoleri.github.io/files/NBER_The_causal_effects_of_R_D_grants.pdf)). </span>
+   Featured in: [New Things Under the Sun](https://mattsclancy.substack.com/p/an-example-of-high-returns-to-publicly#comments) - [VoxEu](https://voxeu.org/article/causal-effects-rd-grants) - [LaVoce](https://www.lavoce.info/archives/68838/buoni-investimenti-il-sostegno-a-ricerca-e-sviluppo-delle-pmi/) - [IlSole24Ore](https://albertodiminin.nova100.ilsole24ore.com/2020/06/13/seal-of-excellence-come-spendere-bene-330-milioni-di-euro/). The work was presented at the [NBER Summer Institute](https://conference.nber.org/sched/SI20PRINN) (slides [here](https://pietrosantoleri.github.io/files/NBER_The_causal_effects_of_R_D_grants.pdf)). </span>
 
 * <span style="font-size:11pt;">**Supporting Innovative Entrepreneurship: An Evaluation of the Italian Start-up Act**, with Francesco Manaresi and Carlo Menon</span>
      - <span style="font-size:11pt;">*Industrial and Corporate Change*, forthcoming
