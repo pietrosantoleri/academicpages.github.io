@@ -12,7 +12,7 @@ author_profile: true
 <img width="350px" align="right" src="http://pietrosantoleri.github.io/images/rddplotspurring.png" hspace="10">
 In the attempt to boost innovation, policy-makers have enacted a myriad of programs targeting innovative start-ups in recent years. Empirical evidence on these initiatives has almost exclusively focused on national-level programs, overlooking those implemented at the local level. This paper provides the first quasi-experimental evidence on the joint effects of local policies focusing on Italy, where regional governments have been very active in providing financial support to these firms. By leveraging discontinuities in program design, we adopt a local randomization approach and document a null effect of these programs over a wide range of firm-level outcomes. However, we find that securing local subsidies increases start-ups’ probability to obtain additional public subsidies, which points in the direction of a vicious “Matthew effect” in subsidy allocation. Consistent with a reputation/certification mechanism, the increase in follow-on subsidies occurs for funds disbursed at the local level only, whereas no effect is detected for subsidies allocated by national or international authorities. </div>
 
- ---------------------------------------------------------------------------<br><br>
+<hr style="border-top: 1px solid #CCCCCC;"/>
  
 
 <span style="font-size:11pt;">**R&D Grants and the Novelty of Innovation**, with Martina Iori and Andrea Mina</span>
