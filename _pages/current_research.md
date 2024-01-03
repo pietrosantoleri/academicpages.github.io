@@ -22,7 +22,7 @@ In the attempt to boost innovation, policy-makers have enacted a myriad of progr
 <img width="280px" align="right" src="http://pietrosantoleri.github.io/images/rddnovelty.png" hspace="12">
 The paper examines whether competitive R&D grants incentivize private firms to pursue innovation in unexplored directions or more conventional ones. We use applicant-level data from the largest European program awarding R&D grants to individual small and medium-sized enterprises. We find that having unconventional patents before the program or submitting an atypical proposal does not affect ranking or the likelihood of winning, thus yielding no evidence of systematic bias against novelty in grant allocation. We then exploit the discontinuity in the program design to infer the effects of grants and find that: i) they induce firms to innovate in domains that are new and distant from their past technological trajectories; ii) they increase the likelihood of introducing unconventional patents without increasing the chances of filing conventional ones. These results are driven by firms that are cash-constrained, which is consistent with the idea that financial frictions hinder more risky and experimental research endeavors. </div>
 
-<hr style="border-top: 1px solid #CCCCCC;"/>
+------
 
 <span style="font-size:11pt;"><strong><a href="https://publications.jrc.ec.europa.eu/repository/handle/JRC134469" target="_blank" rel="noopener noreferrer">Regional Incidence and Persistence of High-Growth Firms</a></strong>, with Alex Coad, Clemens Domnick, Stjepan Srhoj</span>
 
