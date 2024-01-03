@@ -1,12 +1,12 @@
 ---
 layout: archive
-title: 
+title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+<iframe src="/files/pdf/Williams CV.pdf" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
 
-<span style="font-size:0.9em;">Download full CV [here](http://pietrosantoleri.github.io/files/CV_Santoleri_Ago22.pdf)</span>
+You can download a PDF copy of my CV [here](http://pietrosantoleri.github.io/files/CV_Santoleri_Ago22.pdf).
