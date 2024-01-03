@@ -18,8 +18,6 @@ redirect_from:
 
 **Recent research**
 
+* <span style="font-size:11pt;">I recently presented a paper co-authored with Martina Iori and Andrea Mina at the <a href="https://www.nber.org/conferences/si-2023-science-science-funding" target="_blank" rel="noopener noreferrer">2023 NBER Summer Institute</a>
+
 * <span style="font-size:11pt;">My job market paper, <a href="https://direct.mit.edu/rest/article/doi/10.1162/rest_a_01233/112422/The-Causal-Effects-of-R-amp-D-Grants-Evidence-from" target="_blank" rel="noopener noreferrer">"The Causal Effects of R&D Grants: Evidence from a Regression Discontinuity"</a>, has been published in *The Review of Economics and Statistics*. The paper was presented at the <a href="https://conference.nber.org/sched/SI20PRINN" target="_blank" rel="noopener noreferrer">NBER Summer Institute</a> and featured in <a href="https://voxeu.org/article/causal-effects-rd-grants" target="_blank" rel="noopener noreferrer">Voxeu</a>, <a href="https://www.lavoce.info/archives/68838/buoni-investimenti-il-sostegno-a-ricerca-e-sviluppo-delle-pmi/" target="_blank" rel="noopener noreferrer">Lavoce</a>, <a href="https://albertodiminin.nova100.ilsole24ore.com/2020/06/13/seal-of-excellence-come-spendere-bene-330-milioni-di-euro/?refresh_ce=1" target="_blank" rel="noopener noreferrer">IlSole24Ore</a> and Matt Clancy's <a href="https://mattsclancy.substack.com/p/an-example-of-high-returns-to-publicly" target="_blank" rel="noopener noreferrer">New Things Under the Sun</a>.</span>
-
-* <span style="font-size:11pt;">Francesco Manaresi, Carlo Menon and I published <a href="https://academic.oup.com/icc/article/30/6/1591/6366122" target="_blank" rel="noopener noreferrer">"Supporting Innovative Entrepreneurship: An Evaluation of the Italian Start-up Act"</a> in *Industrial and Corporate Change*.</span>
-
-* <span style="font-size:11pt;">The article <a href="https://www.sciencedirect.com/science/article/pii/S0048733320302067" target="_blank" rel="noopener noreferrer">"Public Funding of Innovation: Exploring Applications and Allocations of the European SME Instrument"</a> has been published in *Research Policy*.</span>
