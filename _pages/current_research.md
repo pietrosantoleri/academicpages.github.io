@@ -16,7 +16,7 @@ In the attempt to boost innovation, policy-makers have enacted a myriad of progr
 
 <hr style="border-top: 1px solid #CCCCCC;"/>
  
-<span style="font-size:11pt;">**[R&D Grants and the Novelty of Innovation](https://conference.nber.org/conf_papers/f183994.pdf)**, with Martina Iori and Andrea Mina</span>
+<span style="font-size:11pt;"><strong><a href="https://conference.nber.org/conf_papers/f183994.pdf" target="_blank" rel="noopener noreferrer">R&D Grants and the Novelty of Innovation</a></strong>, with Martina Iori and Andrea Mina</span>
 
 <div style="text-align: justify; font-size:10pt;" >
 <img width="280px" align="right" src="http://pietrosantoleri.github.io/images/rddnovelty.png" hspace="12">
