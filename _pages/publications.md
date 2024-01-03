@@ -23,14 +23,20 @@ author_profile: true
     </span>
 
 
-* <span style="font-size:11pt;">**Supporting Innovative Entrepreneurship: An Evaluation of the Italian Start-up Act**, with Francesco Manaresi and Carlo Menon</span>
-     - <span style="font-size:11pt;">*Industrial and Corporate Change* (2021), 30(6): 1591-1614
-     - <span style="font-size:11pt;">[[Paper](https://academic.oup.com/icc/advance-article-abstract/doi/10.1093/icc/dtab033/6366122?redirectedFrom=fulltext)] [[WP](http://docs.dises.univpm.it/web/quaderni/pdfmofir/Mofir163.pdf)]</span>
+* <span style="font-size:11pt;"><strong>Supporting Innovative Entrepreneurship: An Evaluation of the Italian Start-up Act</strong>, with Francesco Manaresi and Carlo Menon</span>
+     - <span style="font-size:11pt;">*Industrial and Corporate Change* (2021), 30(6): 1591-1614</span>
+     - <span style="font-size:11pt;">
+         [<a href="https://academic.oup.com/icc/advance-article-abstract/doi/10.1093/icc/dtab033/6366122?redirectedFrom=fulltext" target="_blank" rel="noopener noreferrer">Paper</a>]
+         [<a href="http://docs.dises.univpm.it/web/quaderni/pdfmofir/Mofir163.pdf" target="_blank" rel="noopener noreferrer">WP</a>]
+       </span>
 
-* <span style="font-size:11pt;">**Public Funding of Innovation: Exploring Applications and Allocations of the European SME Instrument**, with Andrea Mina, Irene Martelli, Alberto Di Minin and Giuseppina Testa</span>
+* <span style="font-size:11pt;"><strong>Public Funding of Innovation: Exploring Applications and Allocations of the European SME Instrument</strong>, with Andrea Mina, Irene Martelli, Alberto Di Minin and Giuseppina Testa</span>
    - <span style="font-size:11pt;">*Research Policy* (2021), 50(1): 104131</span>
-   - <span style="font-size:11pt;">[[Paper](https://www.sciencedirect.com/science/article/pii/S0048733320302067)] [[WP](https://pietrosantoleri.github.io/files/Public funding of innovation_SSRN.pdf)]
-
+   - <span style="font-size:11pt;">
+         [<a href="https://www.sciencedirect.com/science/article/pii/S0048733320302067" target="_blank" rel="noopener noreferrer">Paper</a>]
+         [<a href="https://pietrosantoleri.github.io/files/Public funding of innovation_SSRN.pdf" target="_blank" rel="noopener noreferrer">WP</a>]
+     </span>
+     
 * <span style="font-size:11pt;">**The Effect of the Great Recession on the Employment Growth of Young vs. Small Firms in the Eurozone**, with Andrea Mina</span>
    - <span style="font-size:11pt;">*Structural Change and Economic Dynamics* (2021), 56: 184-194.
    - <span style="font-size:11pt;">[[Paper](https://www.sciencedirect.com/science/article/pii/S0954349X2030415X)] [[WP](http://www.growinpro.eu/wp-content/uploads/2020/11/working_paper_2020_32.pdf)]
