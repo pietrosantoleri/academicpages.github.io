@@ -15,6 +15,15 @@ author_profile: true
 <img width="280px" align="right" src="http://pietrosantoleri.github.io/images/rddplotspurring.png" hspace="12">
 We leverage the discontinuity in the assignment mechanism of the Small and Medium Enterprise Instrument - the first European R&D subsidy targeting small firms - to provide the broadest quasi-experimental evidence on R&D grants over both geographical and sectoral scopes. Grants trigger sizable impacts on a wide range of firm-level outcomes. Heterogeneous effects are consistent with grants reducing financial frictions. This reduction is due to funding rather than certification. We also provide direct causal evidence on pure certification - signaling not attached to funding - and show that firms that only receive ‘quality stamps’ do not improve their performance. Finally, our estimates suggest that the scheme produces private returns that are positive and comparable to those of the US Small Business Innovation Research program, while also generating geographical and sectoral spillovers in the form of increased rates of entrepreneurial entry. </div>
 
+   <span style="font-size:9pt;">Featured in: 
+        <a href="https://mattsclancy.substack.com/p/an-example-of-high-returns-to-publicly#comments" target="_blank" rel="noopener noreferrer">New Things Under the Sun</a> - 
+        <a href="https://voxeu.org/article/causal-effects-rd-grants" target="_blank" rel="noopener noreferrer">VoxEu</a> - 
+        <a href="https://www.lavoce.info/archives/68838/buoni-investimenti-il-sostegno-a-ricerca-e-sviluppo-delle-pmi/" target="_blank" rel="noopener noreferrer">LaVoce</a> - 
+        <a href="https://albertodiminin.nova100.ilsole24ore.com/2020/06/13/seal-of-excellence-come-spendere-bene-330-milioni-di-euro/" target="_blank" rel="noopener noreferrer">IlSole24Ore</a>. The work was presented at the 
+        <a href="https://conference.nber.org/sched/SI20PRINN" target="_blank" rel="noopener noreferrer">NBER Summer Institute</a> (slides 
+        <a href="https://pietrosantoleri.github.io/files/NBER_The_causal_effects_of_R_D_grants.pdf" target="_blank" rel="noopener noreferrer">here</a>).
+    </span>
+    
 -----
 
 * <span style="font-size:11pt;"><strong>The Causal Effects of R&D Grants: Evidence from a Regression Discontinuity</strong>, with Andrea Mina, Irene Martelli, and Alberto Di Minin</span>
