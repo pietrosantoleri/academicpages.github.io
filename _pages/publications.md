@@ -7,7 +7,9 @@ author_profile: true
 **Peer-Reviewed articles**
 
 <span style="font-size:11pt;"><strong><a href="https://direct.mit.edu/rest/article/doi/10.1162/rest_a_01233/112422/The-Causal-Effects-of-R-amp-D-Grants-Evidence-from" target="_blank" rel="noopener noreferrer">The Causal Effects of R&D Grants: Evidence from a Regression Discontinuity</a></strong></span>
+
 <span style="font-size:9pt;">with Andrea Mina, Irene Martelli, and Alberto Di Minin </span>
+
 <span style="font-size:9pt;"><em>The Review of Economics and Statistics</em> (2022) </span>
 
 <div style="text-align: justify; font-size:10pt;" > 
