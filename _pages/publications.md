@@ -64,7 +64,7 @@ This paper examines the uneven impact of the Great Recession on firm-level emplo
 <span style="font-size:9pt; display: block; margin-top: -18px;"><em>Industrial and Corporate Change</em> (2020) </span>
 
 <div style="text-align: justify; font-size:10pt;" > 
-<img width="280px" align="right" src="http://pietrosantoleri.github.io/images/sced.png" hspace="12">
+<img width="280px" align="right" src="http://pietrosantoleri.github.io/images/icchgf.png" hspace="12">
 Recent research has underscored the prominent role played by a small fraction of fast-growing new firms in contributing to aggregate net employment growth. While it is typically assumed that those firms experience this superior performance thanks to their ability in undertaking technological innovation, few empirical studies have explicitly addressed this issue. This article examines the innovation-employment nexus for startups using the Kauffman Firm Survey, a unique longitudinal dataset tracking a single cohort of US firms founded in 2004. Results based on fixed effects panel quantile regressions indicate an overall positive but heterogeneous effect of innovation activities on the conditional employment growth distribution. More in detail, the findings reveal that both research and development and patents have a positive association with employment growth especially for those new firms experiencing high growth.</div>
 
 -----
