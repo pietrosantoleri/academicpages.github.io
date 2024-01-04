@@ -32,7 +32,7 @@ We leverage the discontinuity in the assignment mechanism of the Small and Mediu
 <span style="font-size:9pt;"><em>Industrial and Corporate Change</em> (2021) </span>
 
 <div style="text-align: justify; font-size:10pt;" > 
-<img width="240px" align="right" src="http://pietrosantoleri.github.io/images/startupact.png" hspace="12">
+<img width="280px" align="right" src="http://pietrosantoleri.github.io/images/startupact.png" hspace="12">
 The role of innovative start-ups in contributing to aggregate economic dynamism has attracted increased attention in recent years. While this has translated into several public policies explicitly targeting them, there is little evidence on their effectiveness. This article provides a comprehensive evaluation of the “Start-up Act,” a policy intervention aimed at supporting innovative start-ups in Italy. We construct a unique database encompassing detailed information on firm balance sheets, employment, firm demographics, patents and bank–firm relationships for all Italian start-ups. We use conditional difference-in-differences and instrumental variable strategies to evaluate the impact of the “Start-up Act” on firm performance. Results show that the policy induces a significant increase in several firm outcomes whereas no effect is detected in patenting propensity and survival chances. We also document that the policy alleviates financial frictions characterizing innovative start-ups through the provision of tax credits for equity and a public guarantee scheme which, respectively, trigger an increase in the probability of receiving VC and accessing bank credit. </div>
 
 -----
