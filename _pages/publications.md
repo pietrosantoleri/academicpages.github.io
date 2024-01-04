@@ -12,7 +12,7 @@ author_profile: true
 <span style="font-size:9pt;"><em>The Review of Economics and Statistics</em> (2022) </span>
 
 <div style="text-align: justify; font-size:10pt;" > 
-<img width="280px" align="right" src="http://pietrosantoleri.github.io/images/rddplotspurring.png" hspace="12">
+<img width="280px" align="right" src="http://pietrosantoleri.github.io/images/randgrants.png" hspace="12">
 We leverage the discontinuity in the assignment mechanism of the Small and Medium Enterprise Instrument - the first European R&D subsidy targeting small firms - to provide the broadest quasi-experimental evidence on R&D grants over both geographical and sectoral scopes. Grants trigger sizable impacts on a wide range of firm-level outcomes. Heterogeneous effects are consistent with grants reducing financial frictions. This reduction is due to funding rather than certification. We also provide direct causal evidence on pure certification - signaling not attached to funding - and show that firms that only receive ‘quality stamps’ do not improve their performance. Finally, our estimates suggest that the scheme produces private returns that are positive and comparable to those of the US Small Business Innovation Research program, while also generating geographical and sectoral spillovers in the form of increased rates of entrepreneurial entry. </div>
 
    <span style="font-size:9pt;">Featured in: 
