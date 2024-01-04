@@ -43,7 +43,7 @@ The role of innovative start-ups in contributing to aggregate economic dynamism 
 <span style="font-size:9pt;"><em>Research Policy</em> (2021) </span>
 
 <div style="text-align: justify; font-size:10pt;" > 
-<img width="280px" align="right" src="http://pietrosantoleri.github.io/images/startupact.png" hspace="12">
+<img width="280px" align="right" src="http://pietrosantoleri.github.io/images/respolsme.png" hspace="12">
 Financial constraints can severely limit the development of small and medium size enterprises (SMEs) and are very likely to affect innovative firms. In order to lower the barriers to firm growth, in 2014 the European Commission introduced the SME Instrument with the specific aim to support businesses with high-growth potential in need of external finance. By exploiting the availability of information not only on grant awards but also on applications, this is the first study that examines which types of firms apply to the scheme and which ones are selected for the two main rounds of funding. The evidence suggests that the scheme is successful at attracting SMEs with high-growth potential, and that – in line with signalling theory – patenting and prior venture capital funding are strong predictors of awards.</div>
 
 -----
