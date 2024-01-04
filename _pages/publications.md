@@ -74,7 +74,7 @@ Recent research has underscored the prominent role played by a small fraction of
 <span style="font-size:9pt;"><em>Small Business Economics</em> (2017) </span>
 
 <div style="text-align: justify; font-size:10pt;" > 
-<img width="280px" align="right" src="http://pietrosantoleri.github.io/images/sced.png" hspace="12">
+<img width="280px" align="right" src="http://pietrosantoleri.github.io/images/sbejele.png" hspace="12">
 We investigate the relation between the introduction of innovation and subsequent firm growth employing a dataset representative of the Chilean productive structure. By means of quantile treatment effects (QTE), we estimate the effect of the introduction of innovation by comparing firms with a similar propensity to innovate for different quantiles of the firm growth distribution. Our results indicate that process innovation positively affects sales growth for those firms located at the 75th and 90th percentiles. Contrarily, product innovation appears not to be a driver of firm performance. We also find that process innovation benefits mature firms at higher quantiles while it positively affects young firms located at low-medium quantiles.</div>
 
 -----
