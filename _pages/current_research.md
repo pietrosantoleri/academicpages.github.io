@@ -25,7 +25,8 @@ The paper examines whether competitive R&D grants incentivize private firms to p
 
 ------
 
-<span style="font-size:11pt;"><strong><a href="https://publications.jrc.ec.europa.eu/repository/handle/JRC134469" target="_blank" rel="noopener noreferrer">Regional Incidence and Persistence of High-Growth Firms</a></strong>, with Alex Coad, Clemens Domnick, Stjepan Srhoj</span>
+<span style="font-size:11pt;"><strong><a href="https://publications.jrc.ec.europa.eu/repository/handle/JRC134469" target="_blank" rel="noopener noreferrer">Regional Incidence and Persistence of High-Growth Firms</a></strong></span>
+<span style="font-size:9pt; display: block; margin-top: 6px;">with Alex Coad, Clemens Domnick, Stjepan Srhoj</span>
 
 <div style="text-align: justify; font-size:10pt;" >
 <img width="280px" align="right" src="http://pietrosantoleri.github.io/images/hgf.png" hspace="12">
