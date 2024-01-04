@@ -68,12 +68,19 @@ This paper examines the uneven impact of the Great Recession on firm-level emplo
 Recent research has underscored the prominent role played by a small fraction of fast-growing new firms in contributing to aggregate net employment growth. While it is typically assumed that those firms experience this superior performance thanks to their ability in undertaking technological innovation, few empirical studies have explicitly addressed this issue. This article examines the innovation-employment nexus for startups using the Kauffman Firm Survey, a unique longitudinal dataset tracking a single cohort of US firms founded in 2004. Results based on fixed effects panel quantile regressions indicate an overall positive but heterogeneous effect of innovation activities on the conditional employment growth distribution. More in detail, the findings reveal that both research and development and patents have a positive association with employment growth especially for those new firms experiencing high growth.</div>
 
 -----
+<span style="font-size:11pt; margin-bottom: 0px;"><strong><a href="https://link.springer.com/article/10.1007/s11187-016-9836-4" target="_blank" rel="noopener noreferrer">Exploring the Link Between Innovation and Firm Growth in Chilean Firms</a></strong></span>
 
+<span style="font-size:9pt; display: block; margin-top: -18px;">with Caterina Santi</span>
+<span style="font-size:9pt;"><em>Small Business Economics</em> (2017) </span>
+
+<div style="text-align: justify; font-size:10pt;" > 
+<img width="280px" align="right" src="http://pietrosantoleri.github.io/images/sced.png" hspace="12">
+We investigate the relation between the introduction of innovation and subsequent firm growth employing a dataset representative of the Chilean productive structure. By means of quantile treatment effects (QTE), we estimate the effect of the introduction of innovation by comparing firms with a similar propensity to innovate for different quantiles of the firm growth distribution. Our results indicate that process innovation positively affects sales growth for those firms located at the 75th and 90th percentiles. Contrarily, product innovation appears not to be a driver of firm performance. We also find that process innovation benefits mature firms at higher quantiles while it positively affects young firms located at low-medium quantiles.</div>
+
+-----
 
      
-* <span style="font-size:11pt;">**Innovation and Job Creation in (High-growth) New Firms**</span>
-   - <span style="font-size:11pt;">*Industrial and Corporate Change* (2020), 29: 731–756</span>
-   - <span style="font-size:11pt;">[[Paper](https://academic.oup.com/icc/article-abstract/29/3/731/5643963?redirectedFrom=fulltext)] [[WP](http://www.lem.sssup.it/WPLem/files/2019-31.pdf)]</span>
+
 
 * <span style="font-size:11pt;">**Exploring the Link Between Innovation and Firm Growth in Chilean Firms**, with Caterina Santi</span>
    - <span style="font-size:11pt;">*Small Business Economics* (2017), 49: 445</span>
