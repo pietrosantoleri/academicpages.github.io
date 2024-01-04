@@ -37,36 +37,18 @@ The role of innovative start-ups in contributing to aggregate economic dynamism 
 
 -----
 
-* <span style="font-size:11pt;"><strong>Supporting Innovative Entrepreneurship: An Evaluation of the Italian Start-up Act</strong>, with Francesco Manaresi and Carlo Menon</span>
-     - <span style="font-size:11pt;">*Industrial and Corporate Change* (2021), 30(6): 1591-1614</span>
-     - <span style="font-size:11pt;">
-         [<a href="https://academic.oup.com/icc/advance-article-abstract/doi/10.1093/icc/dtab033/6366122?redirectedFrom=fulltext" target="_blank" rel="noopener noreferrer">Paper</a>]
-         [<a href="http://docs.dises.univpm.it/web/quaderni/pdfmofir/Mofir163.pdf" target="_blank" rel="noopener noreferrer">WP</a>]
-       </span>
+<span style="font-size:11pt; margin-bottom: 0px;"><strong><a href="https://www.sciencedirect.com/science/article/pii/S0048733320302067" target="_blank" rel="noopener noreferrer">Public Funding of Innovation: Exploring Applications and Allocations of the European SME Instrument</a></strong></span>
 
-* <span style="font-size:11pt;"><strong>The Causal Effects of R&D Grants: Evidence from a Regression Discontinuity</strong>, with Andrea Mina, Irene Martelli, and Alberto Di Minin</span>
-    - <span style="font-size:11pt;"><em>The Review of Economics and Statistics</em> (2022), forthcoming</span>
-    - <span style="font-size:11pt;">
-        [<a href="https://direct.mit.edu/rest/article/doi/10.1162/rest_a_01233/112422/The-Causal-Effects-of-R-amp-D-Grants-Evidence-from" target="_blank" rel="noopener noreferrer">Paper</a>]
-        [<a href="http://pietrosantoleri.github.io/files/Santoleri_et_al_The_effects_of_R_D_grants.pdf" target="_blank" rel="noopener noreferrer">WP</a>]
-      </span>
+<span style="font-size:9pt; display: block; margin-top: -18px;">with Andrea Mina, Irene Martelli, Alberto Di Minin and Giuseppina Testa</span>
+<span style="font-size:9pt;"><em>Research Policy</em> (2021) </span>
 
-   <span style="font-size:11pt;">Featured in: 
-        <a href="https://mattsclancy.substack.com/p/an-example-of-high-returns-to-publicly#comments" target="_blank" rel="noopener noreferrer">New Things Under the Sun</a> - 
-        <a href="https://voxeu.org/article/causal-effects-rd-grants" target="_blank" rel="noopener noreferrer">VoxEu</a> - 
-        <a href="https://www.lavoce.info/archives/68838/buoni-investimenti-il-sostegno-a-ricerca-e-sviluppo-delle-pmi/" target="_blank" rel="noopener noreferrer">LaVoce</a> - 
-        <a href="https://albertodiminin.nova100.ilsole24ore.com/2020/06/13/seal-of-excellence-come-spendere-bene-330-milioni-di-euro/" target="_blank" rel="noopener noreferrer">IlSole24Ore</a>. The work was presented at the 
-        <a href="https://conference.nber.org/sched/SI20PRINN" target="_blank" rel="noopener noreferrer">NBER Summer Institute</a> (slides 
-        <a href="https://pietrosantoleri.github.io/files/NBER_The_causal_effects_of_R_D_grants.pdf" target="_blank" rel="noopener noreferrer">here</a>).
-    </span>
+<div style="text-align: justify; font-size:10pt;" > 
+<img width="280px" align="right" src="http://pietrosantoleri.github.io/images/startupact.png" hspace="12">
+Financial constraints can severely limit the development of small and medium size enterprises (SMEs) and are very likely to affect innovative firms. In order to lower the barriers to firm growth, in 2014 the European Commission introduced the SME Instrument with the specific aim to support businesses with high-growth potential in need of external finance. By exploiting the availability of information not only on grant awards but also on applications, this is the first study that examines which types of firms apply to the scheme and which ones are selected for the two main rounds of funding. The evidence suggests that the scheme is successful at attracting SMEs with high-growth potential, and that – in line with signalling theory – patenting and prior venture capital funding are strong predictors of awards.</div>
+
+-----
 
 
-* <span style="font-size:11pt;"><strong>Supporting Innovative Entrepreneurship: An Evaluation of the Italian Start-up Act</strong>, with Francesco Manaresi and Carlo Menon</span>
-     - <span style="font-size:11pt;">*Industrial and Corporate Change* (2021), 30(6): 1591-1614</span>
-     - <span style="font-size:11pt;">
-         [<a href="https://academic.oup.com/icc/advance-article-abstract/doi/10.1093/icc/dtab033/6366122?redirectedFrom=fulltext" target="_blank" rel="noopener noreferrer">Paper</a>]
-         [<a href="http://docs.dises.univpm.it/web/quaderni/pdfmofir/Mofir163.pdf" target="_blank" rel="noopener noreferrer">WP</a>]
-       </span>
 
 * <span style="font-size:11pt;"><strong>Public Funding of Innovation: Exploring Applications and Allocations of the European SME Instrument</strong>, with Andrea Mina, Irene Martelli, Alberto Di Minin and Giuseppina Testa</span>
    - <span style="font-size:11pt;">*Research Policy* (2021), 50(1): 104131</span>
