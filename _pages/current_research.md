@@ -7,8 +7,8 @@ author_profile: true
 **Current Research**
 
 
-<span style="font-size:11pt;"><strong><a href="https://publications.jrc.ec.europa.eu/repository/handle/JRC135716" target="_blank" rel="noopener noreferrer">Spurring Subsidy Entrepreneurs</a></strong>, with Emanuele Russo</span>
-
+<span style="font-size:11pt;"><strong><a href="https://publications.jrc.ec.europa.eu/repository/handle/JRC135716" target="_blank" rel="noopener noreferrer">Spurring Subsidy Entrepreneurs</a></strong>
+<span style="font-size:9pt; display: block; margin-top: -18px;">with Emanuele Russo</span>
 
 <div style="text-align: justify; font-size:10pt;" > 
 <img width="280px" align="right" src="http://pietrosantoleri.github.io/images/rddplotspurring.png" hspace="12">
