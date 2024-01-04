@@ -96,15 +96,13 @@ This study uses data from two waves of the Encuesta Longitudinal de Empresas (EL
 
 ------
 
-
 **Working papers**
 
 <span style="font-size:11pt; margin-bottom: 0px;"><strong><a href="https://www.oecd-ilibrary.org/industry-and-services/the-evaluation-of-the-italian-start-up-act_02ab0eb7-en" target="_blank" rel="noopener noreferrer">The Evaluation of the Italian Start-up Act</a></strong></span>
 
 <span style="font-size:9pt; display: block; margin-top: -18px;">with Timothy DeStefano, Francesco Manaresi, Carlo Menon and Giovanni Soggia</span>
 <span style="font-size:9pt;"><em>OECD Science, Technology and Industry Policy Papers</em> (2018) </span>
-
-<span style="font-size:9pt;margin-top: -6px;">Featured in: [LaVoce](https://www.lavoce.info/archives/56050/startup-act-un-primo-passo-di-successo-3/) - [IlSole24Ore](https://www.econopoly.ilsole24ore.com/2018/11/06/startup-act-italia-innovazione-business/). The work was presented at the Italian Parliament (watch video in Italian [here](http://www.radioradicale.it/scheda/552738/la-valutazione-indipendente-dellocse-sullo-startup-act-italiano-risultati-e)). </span>
+<span style="font-size:9pt;margin-top: -6px;">Featured in: <a href="https://www.lavoce.info/archives/56050/startup-act-un-primo-passo-di-successo-3/" target="_blank" rel="noopener noreferrer">LaVoce</a> - <a href="https://www.econopoly.ilsole24ore.com/2018/11/06/startup-act-italia-innovazione-business/" target="_blank" rel="noopener noreferrer">IlSole24Ore</a>. The work was presented at the Italian Parliament (watch video in Italian <a href="http://www.radioradicale.it/scheda/552738/la-valutazione-indipendente-dellocse-sullo-startup-act-italiano-risultati-e" target="_blank" rel="noopener noreferrer">here</a>). </span>
 
 <div style="height: 5px;"></div> <!-- This div acts as a spacer -->
 
@@ -113,12 +111,12 @@ This study uses data from two waves of the Encuesta Longitudinal de Empresas (EL
 <span style="font-size:9pt; display: block; margin-top: -18px;">with Giovanni Dosi and Emanuele Pugliese</span>
 <span style="font-size:9pt;"><em>LEM Working Paper Series</em> (2017) </span>
 
-     
 ------
 
 **Book chapters**
 
-* <span style="font-size:11pt;">**Incorporacion de TIC en el Sector Productivo: Uso y Desuso de las Politicas Publicas para Favorecer su Difusion** In Stumpo, G. and Rovira, S. [Entre mitos y realidades. TIC, politicas publicas y desarrollo productivo en America Latina](https://repositorio.cepal.org/bitstream/handle/11362/37248/1/LCL3600_es.pdf). ECLAC, Santiago de Chile</span>
+* <span style="font-size:11pt;">**Incorporacion de TIC en el Sector Productivo: Uso y Desuso de las Politicas Publicas para Favorecer su Difusion** In Stumpo, G. and Rovira, S. <a href="https://repositorio.cepal.org/bitstream/handle/11362/37248/1/LCL3600_es.pdf" target="_blank" rel="noopener noreferrer">Entre mitos y realidades. TIC, politicas publicas y desarrollo productivo en America Latina</a>. ECLAC, Santiago de Chile</span>
+
 
 
 
