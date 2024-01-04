@@ -68,6 +68,7 @@ This paper examines the uneven impact of the Great Recession on firm-level emplo
 Recent research has underscored the prominent role played by a small fraction of fast-growing new firms in contributing to aggregate net employment growth. While it is typically assumed that those firms experience this superior performance thanks to their ability in undertaking technological innovation, few empirical studies have explicitly addressed this issue. This article examines the innovation-employment nexus for startups using the Kauffman Firm Survey, a unique longitudinal dataset tracking a single cohort of US firms founded in 2004. Results based on fixed effects panel quantile regressions indicate an overall positive but heterogeneous effect of innovation activities on the conditional employment growth distribution. More in detail, the findings reveal that both research and development and patents have a positive association with employment growth especially for those new firms experiencing high growth.</div>
 
 -----
+
 <span style="font-size:11pt; margin-bottom: 0px;"><strong><a href="https://link.springer.com/article/10.1007/s11187-016-9836-4" target="_blank" rel="noopener noreferrer">Exploring the Link Between Innovation and Firm Growth in Chilean Firms</a></strong></span>
 
 <span style="font-size:9pt; display: block; margin-top: -18px;">with Caterina Santi</span>
@@ -79,18 +80,16 @@ We investigate the relation between the introduction of innovation and subsequen
 
 -----
 
-     
+<span style="font-size:11pt; margin-bottom: 0px;"><strong><a href="https://www.tandfonline.com/doi/abs/10.1080/10438599.2014.946313" target="_blank" rel="noopener noreferrer">Diversity and Intensity of ICTs Use and Product Innovation: Evidence from Chilean Micro-data</a></strong></span>
 
+<span style="font-size:9pt; display: block; margin-top: -18px;"><em>Industrial and Corporate Change</em> (2020) </span>
 
-* <span style="font-size:11pt;">**Exploring the Link Between Innovation and Firm Growth in Chilean Firms**, with Caterina Santi</span>
-   - <span style="font-size:11pt;">*Small Business Economics* (2017), 49: 445</span>
-   - <span style="font-size:11pt;">[[Paper](https://link.springer.com/article/10.1007/s11187-016-9836-4)] [[WP](http://www.lem.sssup.it/WPLem/files/2016-09.pdf)]</span>
+<div style="text-align: justify; font-size:10pt;" > 
+<img width="280px" align="right" src="http://pietrosantoleri.github.io/images/icchgf.png" hspace="12">
+This study uses data from two waves of the Encuesta Longitudinal de Empresas (ELE) to examine the relationship between information and communication technologies (ICT) use and product innovation in Chilean firms. Our findings sustain the hypothesis that ICT act as enablers of innovation. However, the impacts of ICT on product innovation depend on the type of application considered. In particular, we find positive and significant association between production-integrating ICT, i.e. administrative and industry-specific software, and product innovation, while this is not the case for market-oriented ICT such as e-commerce or client relationship manager software. Finally, the results show that not every ICT combination is beneficial for innovation: firms that show a basic use of ICT are not associated with a better likelihood of introducing innovation, while firms with an advanced use of ICT are those with the more likelihood of innovating.</div>
 
-* <span style="font-size:11pt;">**Diversity and Intensity of ICTs Use and Product Innovation: Evidence from Chilean Micro-data**</span>
-   - <span style="font-size:11pt;">*Economics of Innovation and New Technology* (2015), 550:568
-   - <span style="font-size:11pt;">[[Paper](https://www.tandfonline.com/doi/abs/10.1080/10438599.2014.946313)]</span>
-   
 ------
+
 
 **Working papers**
 
