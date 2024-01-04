@@ -86,7 +86,7 @@ We investigate the relation between the introduction of innovation and subsequen
 
 <span style="font-size:11pt; margin-bottom: 0px;"><strong><a href="https://www.tandfonline.com/doi/abs/10.1080/10438599.2014.946313" target="_blank" rel="noopener noreferrer">Diversity and Intensity of ICTs Use and Product Innovation: Evidence from Chilean Micro-data</a></strong></span>
 
-<span style="font-size:9pt; display: block; margin-top: -18px;"><em>Industrial and Corporate Change</em> (2020) </span>
+<span style="font-size:9pt; display: block; margin-top: -18px;"><em>Economics of Innovation and New Technology</em> (2015) </span>
 
 <div style="text-align: justify; font-size:10pt;" > 
 <img width="280px" align="right" src="http://pietrosantoleri.github.io/images/icchgf.png" hspace="12">
