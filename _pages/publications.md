@@ -48,19 +48,19 @@ Financial constraints can severely limit the development of small and medium siz
 
 -----
 
+<span style="font-size:11pt; margin-bottom: 0px;"><strong><a href="https://www.sciencedirect.com/science/article/pii/S0954349X2030415X" target="_blank" rel="noopener noreferrer">The Effect of the Great Recession on the Employment Growth of Young vs. Small Firms in the Eurozone</a></strong></span>
+
+<span style="font-size:9pt; display: block; margin-top: -18px;">with Andrea Mina</span>
+<span style="font-size:9pt;"><em>Structural Change and Economic Dynamics</em> (2021) </span>
+
+<div style="text-align: justify; font-size:10pt;" > 
+<img width="280px" align="right" src="http://pietrosantoleri.github.io/images/startupact.png" hspace="12">
+This paper examines the uneven impact of the Great Recession on firm-level employment growth across firm size and age classes. Based on firm-level data from ten Eurozone countries, we show that, notwithstanding the negative impact of the crisis, young firms were the most dynamic group of firms and prime contributors to net job creation even during the recession. However, conditional on survival, young firms experienced a sharp drop in their employment growth rates, whereas small firms were mostly unaffected. By using industry-level measures of external financial dependence, we then show how financial frictions were a driver of the growth rates slowdown of young firms.</div>
+
+-----
 
 
-* <span style="font-size:11pt;"><strong>Public Funding of Innovation: Exploring Applications and Allocations of the European SME Instrument</strong>, with Andrea Mina, Irene Martelli, Alberto Di Minin and Giuseppina Testa</span>
-   - <span style="font-size:11pt;">*Research Policy* (2021), 50(1): 104131</span>
-   - <span style="font-size:11pt;">
-         [<a href="https://www.sciencedirect.com/science/article/pii/S0048733320302067" target="_blank" rel="noopener noreferrer">Paper</a>]
-         [<a href="https://pietrosantoleri.github.io/files/Public funding of innovation_SSRN.pdf" target="_blank" rel="noopener noreferrer">WP</a>]
-     </span>
      
-* <span style="font-size:11pt;">**The Effect of the Great Recession on the Employment Growth of Young vs. Small Firms in the Eurozone**, with Andrea Mina</span>
-   - <span style="font-size:11pt;">*Structural Change and Economic Dynamics* (2021), 56: 184-194.
-   - <span style="font-size:11pt;">[[Paper](https://www.sciencedirect.com/science/article/pii/S0954349X2030415X)] [[WP](http://www.growinpro.eu/wp-content/uploads/2020/11/working_paper_2020_32.pdf)]
-
 * <span style="font-size:11pt;">**Innovation and Job Creation in (High-growth) New Firms**</span>
    - <span style="font-size:11pt;">*Industrial and Corporate Change* (2020), 29: 731–756</span>
    - <span style="font-size:11pt;">[[Paper](https://academic.oup.com/icc/article-abstract/29/3/731/5643963?redirectedFrom=fulltext)] [[WP](http://www.lem.sssup.it/WPLem/files/2019-31.pdf)]</span>
