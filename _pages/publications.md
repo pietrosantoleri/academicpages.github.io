@@ -99,20 +99,20 @@ This study uses data from two waves of the Encuesta Longitudinal de Empresas (EL
 
 **Working papers**
 
-<span style="font-size:11pt; margin-bottom: 0px;"><strong><a href="https://direct.mit.edu/rest/article/doi/10.1162/rest_a_01233/112422/The-Causal-Effects-of-R-amp-D-Grants-Evidence-from" target="_blank" rel="noopener noreferrer">The Evaluation of the Italian Start-up Act</a></strong></span>
+<span style="font-size:11pt; margin-bottom: 0px;"><strong><a href="https://www.oecd-ilibrary.org/industry-and-services/the-evaluation-of-the-italian-start-up-act_02ab0eb7-en" target="_blank" rel="noopener noreferrer">The Evaluation of the Italian Start-up Act</a></strong></span>
 
 <span style="font-size:9pt; display: block; margin-top: -18px;">with Timothy DeStefano, Francesco Manaresi, Carlo Menon and Giovanni Soggia</span>
 <span style="font-size:9pt;"><em>OECD Science, Technology and Industry Policy Papers</em> (2018) </span>
 
 <span style="font-size:9pt;">Featured in: [LaVoce](https://www.lavoce.info/archives/56050/startup-act-un-primo-passo-di-successo-3/) - [IlSole24Ore](https://www.econopoly.ilsole24ore.com/2018/11/06/startup-act-italia-innovazione-business/). The work was presented at the Italian Parliament (watch video in Italian [here](http://www.radioradicale.it/scheda/552738/la-valutazione-indipendente-dellocse-sullo-startup-act-italiano-risultati-e)). </span>
 
-* <span style="font-size:11pt;">**The Evaluation of the Italian Start-up Act**, with Timothy DeStefano, Francesco Manaresi, Carlo Menon and Giovanni Soggia</span>
-    - <span style="font-size:11pt;">*OECD Science, Technology and Industry Policy Papers* (2018)</span>
-    - <span style="font-size:11pt;">[[WP](https://www.oecd-ilibrary.org/industry-and-services/the-evaluation-of-the-italian-start-up-act_02ab0eb7-en)]. Featured in: [LaVoce](https://www.lavoce.info/archives/56050/startup-act-un-primo-passo-di-successo-3/) - [IlSole24Ore](https://www.econopoly.ilsole24ore.com/2018/11/06/startup-act-italia-innovazione-business/). The work was presented at the Italian Parliament (watch video in Italian [here](http://www.radioradicale.it/scheda/552738/la-valutazione-indipendente-dellocse-sullo-startup-act-italiano-risultati-e)). </span>
+<div style="height: 10px;"></div> <!-- This div acts as a spacer -->
 
-* <span style="font-size:11pt;">**Growth and Survival of the Fitter? Evidence from US New Born Firms**, with Giovanni Dosi and Emanuele Pugliese</span>
-     - <span style="font-size:11pt;">*LEM Working Paper Series* (2017)</span>
-     - <span style="font-size:11pt;">[[WP](http://www.lem.sssup.it/WPLem/files/2017-06.pdf)]</span>
+<span style="font-size:11pt; margin-bottom: 0px;"><strong><a href="http://www.lem.sssup.it/WPLem/files/2017-06.pdf" target="_blank" rel="noopener noreferrer">Growth and Survival of the Fitter? Evidence from US New Born Firms</a></strong></span>
+
+<span style="font-size:9pt; display: block; margin-top: -18px;">with Giovanni Dosi and Emanuele Pugliese</span>
+<span style="font-size:9pt;"><em>OECD Science, Technology and Industry Policy Papers</em> (2018) </span>
+
      
 ------
 
