@@ -54,7 +54,7 @@ Financial constraints can severely limit the development of small and medium siz
 <span style="font-size:9pt;"><em>Structural Change and Economic Dynamics</em> (2021) </span>
 
 <div style="text-align: justify; font-size:10pt;" > 
-<img width="280px" align="right" src="http://pietrosantoleri.github.io/images/startupact.png" hspace="12">
+<img width="280px" align="right" src="http://pietrosantoleri.github.io/images/sced.png" hspace="12">
 This paper examines the uneven impact of the Great Recession on firm-level employment growth across firm size and age classes. Based on firm-level data from ten Eurozone countries, we show that, notwithstanding the negative impact of the crisis, young firms were the most dynamic group of firms and prime contributors to net job creation even during the recession. However, conditional on survival, young firms experienced a sharp drop in their employment growth rates, whereas small firms were mostly unaffected. By using industry-level measures of external financial dependence, we then show how financial frictions were a driver of the growth rates slowdown of young firms.</div>
 
 -----
