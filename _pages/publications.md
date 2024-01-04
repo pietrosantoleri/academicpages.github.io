@@ -115,7 +115,12 @@ This study uses data from two waves of the Encuesta Longitudinal de Empresas (EL
 
 **Book chapters**
 
-* <span style="font-size:11pt;">**Incorporacion de TIC en el Sector Productivo: Uso y Desuso de las Politicas Publicas para Favorecer su Difusion** In Stumpo, G. and Rovira, S. <a href="https://repositorio.cepal.org/bitstream/handle/11362/37248/1/LCL3600_es.pdf" target="_blank" rel="noopener noreferrer">Entre mitos y realidades. TIC, politicas publicas y desarrollo productivo en America Latina</a>. ECLAC, Santiago de Chile</span>
+<span style="font-size:11pt; margin-bottom: 0px;"><strong><a href="https://repositorio.cepal.org/bitstream/handle/11362/37248/1/LCL3600_es.pdf" target="_blank" rel="noopener noreferrer">Incorporacion de TIC en el Sector Productivo: Uso y Desuso de las Politicas Publicas para Favorecer su Difusion</a></strong></span>
+
+<span style="font-size:9pt; display: block; margin-top: -18px;">with Giovanni Stumpo and Sebastian Rovira</span>
+<span style="font-size:9pt;">In Stumpo, G. and Rovira, S. <a href="https://repositorio.cepal.org/bitstream/handle/11362/37248/1/LCL3600_es.pdf" target="_blank" rel="noopener noreferrer">Entre mitos y realidades. TIC, politicas publicas y desarrollo productivo en America Latina</a>. ECLAC, Santiago de Chile</span>
+
+
 
 
 
