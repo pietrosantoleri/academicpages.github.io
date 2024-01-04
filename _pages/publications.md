@@ -102,7 +102,7 @@ This study uses data from two waves of the Encuesta Longitudinal de Empresas (EL
 <span style="font-size:11pt; margin-bottom: 0px;"><strong><a href="https://direct.mit.edu/rest/article/doi/10.1162/rest_a_01233/112422/The-Causal-Effects-of-R-amp-D-Grants-Evidence-from" target="_blank" rel="noopener noreferrer">The Evaluation of the Italian Start-up Act</a></strong></span>
 
 <span style="font-size:9pt; display: block; margin-top: -18px;">with Timothy DeStefano, Francesco Manaresi, Carlo Menon and Giovanni Soggia</span>
-<span style="font-size:9pt;"><em>OECD Science, Technology and Industry Policy Papers* (2018) </span>
+<span style="font-size:9pt;"><em>OECD Science, Technology and Industry Policy Papers</em> (2018) </span>
 
 <span style="font-size:9pt;">Featured in: [LaVoce](https://www.lavoce.info/archives/56050/startup-act-un-primo-passo-di-successo-3/) - [IlSole24Ore](https://www.econopoly.ilsole24ore.com/2018/11/06/startup-act-italia-innovazione-business/). The work was presented at the Italian Parliament (watch video in Italian [here](http://www.radioradicale.it/scheda/552738/la-valutazione-indipendente-dellocse-sullo-startup-act-italiano-risultati-e)). </span>
 
