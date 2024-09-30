@@ -6,6 +6,15 @@ author_profile: true
 ---
 **Peer-Reviewed articles**
 
+<span style="font-size:11pt;"><strong><a href="https://publications.jrc.ec.europa.eu/repository/handle/JRC135716" target="_blank" rel="noopener noreferrer">Spurring Subsidy Entrepreneurs</a></strong></span>
+<span style="font-size:9pt; display: block; margin-top: 0px;">with Emanuele Russo</span>
+
+<div style="text-align: justify; font-size:10pt;" > 
+<img width="280px" align="right" src="http://pietrosantoleri.github.io/images/rddplotspurring.png" hspace="12">
+In the attempt to boost innovation, policy-makers have enacted a myriad of programs targeting innovative start-ups in recent years. Empirical evidence on these initiatives has almost exclusively focused on national-level programs, overlooking those implemented at the local level. This paper provides the first quasi-experimental evidence on the joint effects of local policies focusing on Italy, where regional governments have been very active in providing financial support to these firms. By leveraging discontinuities in program design, we adopt a local randomization approach and document a null effect of these programs over a wide range of firm-level outcomes. However, we find that securing local subsidies increases start-ups’ probability to obtain additional public subsidies, which points in the direction of a vicious “Matthew effect” in subsidy allocation. Consistent with a reputation/certification mechanism, the increase in follow-on subsidies occurs for funds disbursed at the local level only, whereas no effect is detected for subsidies allocated by national or international authorities. </div>
+
+------
+
 <span style="font-size:11pt; margin-bottom: 0px;"><strong><a href="https://direct.mit.edu/rest/article/doi/10.1162/rest_a_01233/112422/The-Causal-Effects-of-R-amp-D-Grants-Evidence-from" target="_blank" rel="noopener noreferrer">The Causal Effects of R&D Grants: Evidence from a Regression Discontinuity</a></strong></span>
 
 <span style="font-size:9pt; display: block; margin-top: -18px;">with Andrea Mina, Irene Martelli, and Alberto Di Minin </span>
