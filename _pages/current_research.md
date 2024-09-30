@@ -10,7 +10,7 @@ author_profile: true
 <span style="font-size:9pt; display: block; margin-top: 0px;">with Stefano Baruffaldi and Yvegniya Shevtsova</span>
 
 <div style="text-align: justify; font-size:10pt;" >
-<img width="280px" align="right" src="http://pietrosantoleri.github.io/images/rddnovelty.png" hspace="12">
+<img width="280px" align="right" src="http://pietrosantoleri.github.io/images/mob.png" hspace="12">
 The international mobility of researchers has been central to the policy-makers' agendas for several decades. Despite the growing presence of mobility grants within public funding agencies' portfolios, empirical evidence on their effects remains scant. In this paper, we contribute to the literature by studying the Marie Skłodowska-Curie Individual Fellowships, the flagship program of the EU, providing competitive grants to researchers to spend a research period abroad. Based on data for the universe of applicants to the Seventh Framework Programme (2007-2013), we exploit the discontinuity in grant assignment to uncover causal effects on individual researchers. Results show that Individual Fellowships are indeed conducive to higher chances of experiencing mobility to the scientists' country of choice. While we do not find an average impact of mobility grants on publication outcomes or number of new co-authors, we document interesting heterogeneous effects: grants supporting extra-European mobility, as opposed to those supporting mobility within Europe, generally yield more positive effects across most outcomes. This suggests that grants are most effective when targeting mobility flows subject to larger frictions. </div>
 
 ------
