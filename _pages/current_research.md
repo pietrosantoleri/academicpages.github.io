@@ -7,7 +7,7 @@ author_profile: true
 **Current Research**
 
 <span style="font-size:11pt;"><strong><a  target="_blank" rel="noopener noreferrer">The Impact of Mobility Grants on Researchers</a></strong></span>
-<span style="font-size:9pt; display: block; margin-top: 0px;">with Stefano Baruffaldi and Yvegniya Shevtsova (draft forthcoming)</span>
+<span style="font-size:9pt; display: block; margin-top: 0px;">with Stefano Baruffaldi and Yevgeniya Shevtsova (draft forthcoming)</span>
 
 <div style="text-align: justify; font-size:10pt;" >
 <img width="280px" align="right" src="http://pietrosantoleri.github.io/images/mob.png" hspace="12">
