@@ -18,6 +18,6 @@ redirect_from:
 
 **Recent research**
 
-* <span style="font-size:11pt;">A paper on the causal effects of regional subsidies for innovative start-ups, co-authored with Emanuele Russo, was recently published a paper on <a href="https://www.sciencedirect.com/science/article/pii/S004873332400177X" target="_blank" rel="noopener noreferrer">Research Policy</a>.</span>
+* <span style="font-size:11pt;">A paper on the causal effects of regional subsidies for innovative start-ups, co-authored with Emanuele Russo, was recently published on <a href="https://www.sciencedirect.com/science/article/pii/S004873332400177X" target="_blank" rel="noopener noreferrer">Research Policy</a>.</span>
 
 * <span style="font-size:11pt;">I presented a paper co-authored with Martina Iori and Andrea Mina at the <a href="https://www.nber.org/conferences/si-2023-science-science-funding" target="_blank" rel="noopener noreferrer">2023 NBER Summer Institute</a>
