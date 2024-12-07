@@ -6,6 +6,16 @@ author_profile: true
 ---
 **Peer-Reviewed articles**
 
+<span style="font-size:11pt;"><strong><a href="https://publications.jrc.ec.europa.eu/repository/handle/JRC134469" target="_blank" rel="noopener noreferrer">Regional Incidence and Persistence of High-Growth Firms</a></strong></span>
+<span style="font-size:9pt; display: block; margin-top: 0px;">with Alex Coad, Clemens Domnick, Stjepan Srhoj</span>
+<span style="font-size:9pt;"><em>Regional Studies</em> forthcoming </span>
+
+<div style="text-align: justify; font-size:10pt;" >
+<img width="280px" align="right" src="http://pietrosantoleri.github.io/images/hgf.png" hspace="12">
+Policy-makers and scholars often assume that a higher incidence of high-growth firms (HGFs) is synonymous with vibrant regional economic dynamics, and that HGF shares are persistent over time as Entrepreneurial Ecosystems (EEs) have slowly-changing features. In this paper we test these hypotheses, which are deeply rooted in the EE literature. We draw upon Eurostat data for up to 20 countries over the period 2008-2020 and study HGF shares in NUTS-3 regions in Europe. Analysis of regional rankings yields the puzzling finding that the leading EEs in Europe, apparently, are in places such as southern Spain and southern Italy. These places would not normally be considered Europe’s foremost entrepreneurial hotspots. Additional results do not provide strong support for the hypothesis that more developed regions feature higher HGF shares. We do find evidence consistent with HGF shares displaying persistency over time. However, we show that more developed regions do not have higher persistence in their HGF shares, and that the strength in persistence does not increase across the HGFs distribution, which does not support path-dependency as the main mechanism behind the observed persistence. Overall, we call for a more nuanced interpretation of both regional HGF shares and the EEs literature.</div>
+
+------
+
 <span style="font-size:11pt;"><strong><a href="https://www.sciencedirect.com/science/article/pii/S004873332400177X">Spurring Subsidy Entrepreneurs</a></strong></span>
 <span style="font-size:9pt; display: block; margin-top: 0px;">with Emanuele Russo</span>
 <span style="font-size:9pt;"><em>Research Policy</em> (2025) </span>
