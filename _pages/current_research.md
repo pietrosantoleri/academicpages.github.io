@@ -28,7 +28,7 @@ The paper examines whether competitive R&D grants incentivize private firms to p
 <span style="font-size:9pt; display: block; margin-top: 0px;">with Francesco Manaresi and Emanuele Russo</span>
 
 <div style="text-align: justify; font-size:10pt;" >
-<img width="280px" align="right" src="http://pietrosantoleri.github.io/images/rddnovelty.png" hspace="12">
+<img width="280px" align="right" src="http://pietrosantoleri.github.io/images/filse.png" hspace="12">
 This study leverages randomization in priority rankings for subsidy assignment to gauge the causal effects of a place-based policy in Liguria, Italy. The program, based on the Smart Specialization Strategy framework, was designed to support innovation through financial incentives for local firms. The analysis documents that the policy spurred significant increases in both tangible and intangible assets, along with an increase in patenting activity on the extensive margin. The subsidies also led to higher firm revenues, employment, and survival rates, but did not result in productivity gains. We find that the policy was particularly beneficial for smaller and younger firms, while interaction with other subsidies indicated substitution effects rather than complementarities, suggesting a need for careful design of subsidy programs to avoid overlapping incentives. </div>
 
 
